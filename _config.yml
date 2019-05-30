@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Nicolas Michel
-  pic: 1
+  pic: 3
   position: Project Coordinator
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Albrecht Fuess
-  pic: 2
+  pic: 3
   position: Project Coordinator
   social:
     - title: twitter
