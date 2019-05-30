@@ -4,8 +4,8 @@ subtitle: Muhammad Shaaban
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: agri01.jpg
-thumbnail: agri01.jpg
+img: agri01.png
+thumbnail: agri01.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
