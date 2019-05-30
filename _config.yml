@@ -31,9 +31,273 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Anthony T. Quickel
   pic: 3
-  position: Project Coordinator
+  position: Project Assistant Coordinators
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Muhammad H. Shaaban
+  pic: 3
+  position: Project Assistant Coordinators
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Ghislaine Alleaume
+  pic: 3
+  position: Direct Participant
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Julien Loiseau
+  pic: 3
+  position: Direct Participant
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Clement Onimus
+  pic: 3
+  position: Direct Participant
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Yossef Rapoport
+  pic: 3
+  position: Direct Participant
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Kurt Franz
+  pic: 3
+  position: Direct Participant
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Astrid Meier
+  pic: 3
+  position: Direct Participant
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Bethany Walker
+  pic: 3
+  position: Direct Participant
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Kondrad Hirschler
+  pic: 3
+  position: Direct Participant
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Emad Abu Ghazi
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Adam Sabra
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Alan Mikhail
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Wakako Kumakura
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Stuart Borsch
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Zoe Griffith
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Magdi Guirguis
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Dalia Hussein
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Mathieu Eychenne
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Robin Seignobos
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Daisuke Igarashi
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Alison L. Gascoigne
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Heba Saad Abdelnaby
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Aleksandar Sopov
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Gregory Williams
+  pic: 3
+  position: Contributor
   social:
     - title: twitter
       url: #
