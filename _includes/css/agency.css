@@ -176,8 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    padding-top: 5px;
 }
 
 .navbar-default .navbar-brand:hover,
