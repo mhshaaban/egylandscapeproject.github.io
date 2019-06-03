@@ -75,7 +75,7 @@ people:
     - title: google-plus
       url: #
       
-- name: Clement Onimus
+- name: Clément Onimus
   pic: 3
   position: Direct Participant
   social:
@@ -284,7 +284,7 @@ people:
     - title: google-plus
       url: #
       
-- name: Aleksandar Sopov
+- name: Aleksandar Shopov
   pic: 3
   position: Contributor
   social:
@@ -296,6 +296,17 @@ people:
       url: #
       
 - name: Gregory Williams
+  pic: 3
+  position: Contributor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Ahmed Abdel Moniem
   pic: 3
   position: Contributor
   social:
