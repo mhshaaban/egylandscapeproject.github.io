@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Mapping Medieval Egypt 
+subtitle: Developing An Interactive Land Tenure Database For Medieval Egypt
 layout: default
 modal-id: 1
 date: 2014-07-18
