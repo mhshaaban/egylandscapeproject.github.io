@@ -13,305 +13,192 @@ people:
   pic: 3
   position: Project Coordinator
   social:
-    - title: website
+    - title: home
       url: http://iremam.cnrs.fr/spip.php?article68&lang=fr
 
 - name: Albrecht Fuess
   pic: 3
   position: Project Coordinator
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: home
+      url: https://www.uni-marburg.de/de/cnms/islamwissenschaft/fachgebiet/team/prof-dr-albrecht-fuess
 
 - name: Anthony T. Quickel
   pic: 3
   position: Project Assistant Coordinator
   social:
+    - title: home
+      url: http://www.anthonytquickel.com
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/ATQuickel
       
 - name: Muhammad H. Shaaban
   pic: 3
   position: Project Assistant Coordinator
   social:
+    - title: home
+      url: https://qmul.academia.edu/MuhammadShaaban
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/mamlukist
 
 - name: Ghislaine Alleaume
   pic: 3
   position: Direct Participant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: http://iremam.cnrs.fr/spip.php?article20
 
 - name: Julien Loiseau
   pic: 3
   position: Direct Participant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: http://iremam.cnrs.fr/spip.php?article4549
       
 - name: Clément Onimus
   pic: 3
   position: Direct Participant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://univ-paris8.academia.edu/ClémentOnimus
 
 - name: Yossef Rapoport
   pic: 3
   position: Direct Participant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://www.qmul.ac.uk/history/people/academic-staff/profiles/rapoportyossef.html
       
 - name: Kurt Franz
   pic: 3
   position: Direct Participant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/aoi/orient-islamwissenschaft/abteilung/mitarbeiterinnen/kurt-franz/
       
 - name: Astrid Meier
   pic: 3
   position: Direct Participant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: http://www.orientphil.uni-halle.de/sais/ma-meier.php
       
 - name: Bethany Walker
   pic: 3
   position: Direct Participant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://www.mamluk.uni-bonn.de/the-kolleg/organization/forschungsprofessur
       
 - name: Kondrad Hirschler
   pic: 3
   position: Direct Participant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://www.geschkult.fu-berlin.de/en/e/islamwiss/staff/Professors/Hirschler/index.html
       
 - name: Emad Abu Ghazi
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://scholar.cu.edu.eg/?q=eghazi/biocv
       
 - name: Adam Sabra
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://www.history.ucsb.edu/faculty/adam-sabra/
       
 - name: Alan Mikhail
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://history.yale.edu/people/alan-mikhail
       
 - name: Wakako Kumakura
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: http://www.aa.tufs.ac.jp/en/staff/list1/kumakuraw
 
 - name: Stuart Borsch
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://www.assumption.edu/people-and-departments/directory/stuart-borsch-phd
       
 - name: Zoe Griffith
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://www.baruch.cuny.edu/wsas/academics/history/ZoeGriffith.htm, https://twitter.com/zoeanngriffith
       
 - name: Magdi Guirguis
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://independent.academia.edu/MagdiGuirguis
       
 - name: Dalia Hussein
   pic: 3
   position: Contributor
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
       
 - name: Mathieu Eychenne
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: http://www.ifporient.org/mathieu-eychenne/
       
 - name: Robin Seignobos
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://egnet.academia.edu/RobinSeignobos
       
 - name: Daisuke Igarashi
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://researchers.waseda.jp/profile/en.2d3749c3717e78e6a61d631028462b56.html
       
 - name: Alison L. Gascoigne
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://www.southampton.ac.uk/archaeology/about/staff/alg1w07.page
       
 - name: Heba Saad Abdelnaby
   pic: 3
   position: Contributor
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
       
 - name: Aleksandar Shopov
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://www.carsoncenter.uni-muenchen.de/staff_fellows/visiting_fellows/aleksandar_shopov/index.html
       
 - name: Gregory Williams
   pic: 3
   position: Contributor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://www.mamluk.uni-bonn.de/islamic-archaeology/Associated%20Members/doctoral-students/greg-williams
 
 - name: Ahmed Abdel Moniem
   pic: 3
   position: Contributor
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
