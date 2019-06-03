@@ -311,18 +311,14 @@ social:
   - title: twitter
     url: https://twitter.com/EGYLandscape
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket 
-    url: 
+    url: https://www.facebook.com/EGYLandscapeProject/
   - title: github
     url: https://github.com/egylandscapeproject/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line:
+
 
 # Build settings
 markdown: kramdown
