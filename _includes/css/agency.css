@@ -188,12 +188,12 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(255,255,255,.02);
+    border-color: rgba(81,81,81,.02);
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.data.template.color.primary }};
-    background-color: #{{ site.data.template.color.primary }};
+    border-color: #0aa174;
+    background-color: #0aa174;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -202,7 +202,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #0aa174;
 }
 
 .navbar-default .nav li a {
