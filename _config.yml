@@ -11,21 +11,21 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Nicolas Michel
   pic: 3
-  position: Project Coordinator
+  position: Project Leader
   social:
     - title: home
       url: http://iremam.cnrs.fr/spip.php?article68&lang=fr
 
 - name: Albrecht Fuess
   pic: 3
-  position: Project Coordinator
+  position: Project Leader
   social:
     - title: home
       url: https://www.uni-marburg.de/de/cnms/islamwissenschaft/fachgebiet/team/prof-dr-albrecht-fuess
 
 - name: Anthony T. Quickel
   pic: 3
-  position: Project Assistant Coordinator
+  position: Project Coordinator
   social:
     - title: home
       url: http://www.anthonytquickel.com
@@ -34,7 +34,7 @@ people:
       
 - name: Muhammad H. Shaaban
   pic: 3
-  position: Project Assistant Coordinator
+  position: Project Coordinator
   social:
     - title: home
       url: https://qmul.academia.edu/MuhammadShaaban
