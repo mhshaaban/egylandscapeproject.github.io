@@ -59,7 +59,7 @@ people:
   pic: 3
   position: Direct Participant
   social:
-    - title: home
+    - title: font
       url: https://univ-paris8.academia.edu/ClémentOnimus
 
 - name: Yossef Rapoport
@@ -170,6 +170,8 @@ people:
   social:
     - title: home
       url: https://researchers.waseda.jp/profile/en.2d3749c3717e78e6a61d631028462b56.html
+    - title: home
+      url: https://waseda.academia.edu/DaisukeIGARASHI
       
 - name: Alison L. Gascoigne
   pic: 3
@@ -181,6 +183,10 @@ people:
 - name: Heba Saad Abdelnaby
   pic: 3
   position: Contributor
+  social:
+    - title: home
+      url: https://page.academia.edu/HebaAbdelNaby
+  
       
 - name: Aleksandar Shopov
   pic: 3
