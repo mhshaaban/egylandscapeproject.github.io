@@ -10,14 +10,14 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Nicolas Michel
-  pic: nicolas_michel_edited.jpg
+  pic: nicolas_michel_edited
   position: Project Leader
   social:
     - title: home
       url: http://iremam.cnrs.fr/spip.php?article68&lang=fr
 
 - name: Albrecht Fuess
-  pic: albrecht_fuess_edited.jpg
+  pic: albrecht_fuess_edited
   position: Project Leader
   social:
     - title: home
@@ -91,7 +91,7 @@ people:
       url: https://www.mamluk.uni-bonn.de/the-kolleg/organization/forschungsprofessur
       
 - name: Kondrad Hirschler
-  pic: kondrad_hirschler_edited.jpg
+  pic: kondrad_hirschler_edited
   position: Direct Participant
   social:
     - title: home
@@ -107,7 +107,7 @@ people:
       url: https://scholar.cu.edu.eg/?q=eghazi/biocv
       
 - name: Adam Sabra
-  pic: adam_sabra_edited_jpg
+  pic: adam_sabra_edited
   position: Contributor
   social:
     - title: home
@@ -173,7 +173,7 @@ people:
       url: https://egnet.academia.edu/RobinSeignobos
       
 - name: Daisuke Igarashi
-  pic: daisuke_igarashi_edited.jpg
+  pic: daisuke_igarashi_edited
   position: Contributor
   social:
     - title: home
@@ -182,7 +182,7 @@ people:
       url: https://waseda.academia.edu/DaisukeIGARASHI
       
 - name: Alison L. Gascoigne
-  pic: alison_gascoigne_edited.jpg
+  pic: alison_gascoigne_edited
   position: Contributor
   social:
     - title: home
@@ -193,7 +193,7 @@ people:
       url: https://twitter.com/GascoigneA
       
 - name: Heba Saad Abdelnaby
-  pic: heba_mahmoud_saad_edited.jpg
+  pic: heba_mahmoud_saad_edited
   position: Contributor
   social:
     - title: home
