@@ -10,14 +10,14 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Nicolas Michel
-  pic: 3
+  pic: nicolas_michel_edited.jpg
   position: Project Leader
   social:
     - title: home
       url: http://iremam.cnrs.fr/spip.php?article68&lang=fr
 
 - name: Albrecht Fuess
-  pic: 3
+  pic: albrecht_fuess_edited.jpg
   position: Project Leader
   social:
     - title: home
@@ -59,7 +59,7 @@ people:
   pic: 3
   position: Direct Participant
   social:
-    - title: font
+    - title: home
       url: https://univ-paris8.academia.edu/ClémentOnimus
 
 - name: Yossef Rapoport
@@ -91,11 +91,13 @@ people:
       url: https://www.mamluk.uni-bonn.de/the-kolleg/organization/forschungsprofessur
       
 - name: Kondrad Hirschler
-  pic: 3
+  pic: kondrad_hirschler_edited.jpg
   position: Direct Participant
   social:
     - title: home
       url: https://www.geschkult.fu-berlin.de/en/e/islamwiss/staff/Professors/Hirschler/index.html
+    - title: font
+      url: https://fu-berlin.academia.edu/KonradHirschler
       
 - name: Emad Abu Ghazi
   pic: 3
@@ -105,11 +107,13 @@ people:
       url: https://scholar.cu.edu.eg/?q=eghazi/biocv
       
 - name: Adam Sabra
-  pic: 3
+  pic: adam_sabra_edited_jpg
   position: Contributor
   social:
     - title: home
       url: https://www.history.ucsb.edu/faculty/adam-sabra/
+    - title: font
+      url: https://ucsb.academia.edu/AdamSabra
       
 - name: Alan Mikhail
   pic: 3
@@ -133,11 +137,15 @@ people:
       url: https://www.assumption.edu/people-and-departments/directory/stuart-borsch-phd
       
 - name: Zoe Griffith
-  pic: 3
+  pic: zoe_griffith_edited
   position: Contributor
   social:
     - title: home
       url: https://www.baruch.cuny.edu/wsas/academics/history/ZoeGriffith.htm, https://twitter.com/zoeanngriffith
+    - title: font
+      url: https://baruch-cuny.academia.edu/ZoeGriffith
+    - title: twitter
+      url: https://twitter.com/zoeanngriffith
       
 - name: Magdi Guirguis
   pic: 3
@@ -165,7 +173,7 @@ people:
       url: https://egnet.academia.edu/RobinSeignobos
       
 - name: Daisuke Igarashi
-  pic: 3
+  pic: daisuke_igarashi_edited.jpg
   position: Contributor
   social:
     - title: home
@@ -174,14 +182,18 @@ people:
       url: https://waseda.academia.edu/DaisukeIGARASHI
       
 - name: Alison L. Gascoigne
-  pic: 3
+  pic: alison_gascoigne_edited.jpg
   position: Contributor
   social:
     - title: home
       url: https://www.southampton.ac.uk/archaeology/about/staff/alg1w07.page
+    - title: font
+      url: https://soton.academia.edu/AlisonGascoigne  
+    - title: twitter
+      url: https://twitter.com/GascoigneA
       
 - name: Heba Saad Abdelnaby
-  pic: 3
+  pic: heba_mahmoud_saad_edited.jpg
   position: Contributor
   social:
     - title: home
