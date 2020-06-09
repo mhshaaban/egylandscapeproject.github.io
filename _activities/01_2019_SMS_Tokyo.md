@@ -5,11 +5,11 @@ toc: true
 toc_sticky: true
 layout: single
 gallery:
-  - url: /_activities/Tokyo_SMS_July_001.JPG
-    image_path: /_activities/Tokyo_SMS_July_001.JPG
+  - url: /activities/2019_SMS_Tokyo_001.JPG
+    image_path: /activities/2019_SMS_Tokyo_001.JPG
     alt: "placeholder image 1"
-  - url: /_activities/Tokyo_SMS_July_002.JPG
-    image_path: /_activities/Tokyo_SMS_July_002.JPG
+  - url: /activities/2019_SMS_Tokyo_002.JPG
+    image_path: /activities/2019_SMS_Tokyo_002.JPG
     alt: "placeholder image 2"
 ---
 
