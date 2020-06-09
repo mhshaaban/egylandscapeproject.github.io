@@ -94,7 +94,7 @@ available on this site.
 
 Expanding out of this cooperation, the EGYLandscape project seeks to add
 another voice to the public discourse and create a forum for scholarly
-forum. To this end, the project provides regular [working papers](http://mhshaaban.github.io/minimal-mistakes/papers/) from its
+forum. To this end, the project provides regular [working papers](https://www.egylandscape.org/papers/) from its
 members as well as actively engaging in various academic and public
 fora. Throughout the project's duration, the team will produce two
 publications: a mid-project special journal issue and a final edited
