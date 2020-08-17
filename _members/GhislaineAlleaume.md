@@ -5,7 +5,7 @@ sidebar:
   - title: "Ghislaine Alleaume"
     text: "Project Participant"
     links:
-        - label: "Website"
+        label: "Website"
         icon: "fas fa-fw fa-link"
         url: "https://iremam.cnrs.fr/spip.php?article20"
 toc: true
