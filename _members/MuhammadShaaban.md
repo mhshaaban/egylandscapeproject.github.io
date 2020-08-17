@@ -7,10 +7,10 @@ sidebar:
     image_alt: "logo"
     text: "Project Coordinator"
     links:
-        - label: "Website"
+        label: "Website"
         icon: "fas fa-fw fa-link"
         url: "https://qmul.academia.edu/MuhammadShaaban"
-        - label: "Twitter"
+        label: "Twitter"
         icon: "fab fa-fw fa-twitter-square"
         url: "https://twitter.com/Mamlukist"
 toc: true
