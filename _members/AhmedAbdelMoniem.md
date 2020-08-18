@@ -1,10 +1,8 @@
 ---
 title: "Ahmed Abdel Moniem"
-excerpt: "Project Participant"
-sidebar:
-  - title: "Ahmed Abdel Moniem"
-    text: "Project Participant"
-toc: true
-toc_sticky: true
+excerpt: "Project Contributor"
+author: Ahmed Abdel Moniem
+toc: false
+toc_sticky: false
 layout: single
 ---

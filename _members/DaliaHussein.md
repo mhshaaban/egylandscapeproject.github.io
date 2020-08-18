@@ -1,10 +1,8 @@
 ---
 title: "Dalia Hussein"
-excerpt: "Project Participant"
-sidebar:
-  - title: "Dalia Hussein"
-    text: "Project Participant"
-toc: true
-toc_sticky: true
+excerpt: "Project Contributor"
+author: Dalia Hussein
+toc: false
+toc_sticky: false
 layout: single
 ---
