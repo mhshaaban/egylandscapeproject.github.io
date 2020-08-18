@@ -10,7 +10,7 @@ layout: single
 
 [*Download PDF Here*](https://www.egylandscape.org/papers/June2020_Fuess_WorkingPaper.pdf)
 
-## Albrecht Fuess
+## [Albrecht Fuess](https://www.egylandscape.org/members/AlbrechtFuess/)
 **Chair of Islamic Studies** 
 *Philipps-Universität Marburg*
 
