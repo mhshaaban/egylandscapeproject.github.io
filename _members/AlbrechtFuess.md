@@ -1,13 +1,9 @@
 ---
 title: "Albrecht Fuess"
 excerpt: "Project Leader - German Team"
-sidebar:
-  - title: "Prof. Albrecht Fuess"
-    image: assets/images/albrecht_fuess.jpg
-    image_alt: "logo"
-    text: "Project Leader - German Team"
-toc: true
-toc_sticky: true
+author: Albrecht Fuess
+toc: false
+toc_sticky: false
 layout: single
 ---
 
