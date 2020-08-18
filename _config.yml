@@ -342,5 +342,5 @@ defaults:
       type: members
     values:
       layout: single
-      author_profile: false
-      share: true
+      author_profile: true
+      share: false
