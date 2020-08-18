@@ -1,5 +1,6 @@
 ---
 title: "Waqfization in the late Mamluk Empire: A deliberate policy or chaos management? "
+author: Albrecht Fuess
 excerpt: "**Albrecht Fuess**"
 toc: true
 toc_sticky: true
