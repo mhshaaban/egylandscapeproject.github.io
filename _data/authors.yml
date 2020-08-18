@@ -1,0 +1,297 @@
+# /_data/authors.yml
+# Site Author(s)
+Albrecht Fuess:
+  name             : "Albrecht Fuess"
+  avatar           : "/assets/images/albrecht_fuess_edited.jpg"
+  bio              : "Project Leader"
+  location         : "Philipps Universität-Marburg (Germany)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.uni-marburg.de/de/cnms/islamwissenschaft/fachgebiet/team/prof-dr-albrecht-fuess"
+
+Nicolas Michel:
+  name             : "Nicolas Michel"
+  avatar           : "/assets/images/nicolas_michel_edited.jpg"
+  bio              : "Project Leader"
+  location         : "Aix-Marseille Université (France)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://iremam.cnrs.fr/spip.php?article68&lang=fr"
+      
+Anthony T. Quickel:
+  name             : "Anthony T. Quickel"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Coordinator"
+  location         : "Philipps Universität-Marburg (Germany)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "http://www.anthonytquickel.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/ATQuickel"
+
+
+Muhammad H. Shaaban:
+  name             : "Muhammad H. Shaaban"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Coordinator"
+  location         : "Philipps Universität-Marburg (Germany)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://qmul.academia.edu/MuhammadShaaban"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/Mamlukist"
+      
+Ghislaine Alleaume:
+  name             : "Ghislaine Alleaume"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Participant"
+  location         : # institution, e.g. "Philipps Universität-Marburg (Germany)"
+links:    
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://iremam.cnrs.fr/spip.php?article20"
+    
+Julien Loiseau:
+  name             : "Julien Loiseau"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Participant"
+  location         : "Aix-Marseille Université (France)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://iremam.cnrs.fr/spip.php?article4549"
+      
+Clément Onimus:
+  name             : "Clément Onimus"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Participant"
+  location         : "Universite Paris-8 (France)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://univ-paris8.academia.edu/ClémentOnimus"
+
+Yossef Rapoport:
+  name             : "Yossef Rapoport"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Participant"
+  location         : "Queen Mary, Univesity of London (United Kingdom)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.qmul.ac.uk/history/people/academic-staff/profiles/rapoportyossef.html"
+      
+Kurt Franz:
+  name             : "Kurt Franz"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Participant"
+  location         : "Universität Tübingen (Germany)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/aoi/orient-islamwissenschaft/abteilung/mitarbeiterinnen/kurt-franz/"
+      
+Astrid Meier:
+  name             : "Astrid Meier"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Participant"
+  location         : "Martin-Luther-Universität Halle-Wittenberg (Germany)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://arabistik.uni-halle.de/mitarbeitende/3216799_3216805/"
+      
+Bethany Walker:
+  name             : "Bethany Walker"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Participant"
+  location         : "Universität Bonn (Germany)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.mamluk.uni-bonn.de/the-kolleg/organization/forschungsprofessur"
+      
+Konrad Hirschler:
+  name             : "Konrad Hirschler"
+  avatar           : "/assets/images/konrad_hirschler_edited.jpg"
+  bio              : "Project Participant"
+  location         : "Freie Universität Berlin (Germany)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.geschkult.fu-berlin.de/en/e/islamwiss/staff/Professors/Hirschler/index.html"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://fu-berlin.academia.edu/KonradHirschler"
+      
+Emad Abu Ghazi:
+  name             : "Emad Abu Ghazi"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Cairo University (Egypt)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://scholar.cu.edu.eg/?q=eghazi/biocv"
+      
+Adam Sabra:
+  name             : "Adam Sabra"
+  avatar           : "/assets/images/adam_sabra_edited.jpg"
+  bio              : "Project Contributor"
+  location         : "University of California - Santa Barbara (United States)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.history.ucsb.edu/faculty/adam-sabra/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://ucsb.academia.edu/AdamSabra"
+      
+Alan Mikhail:
+  name             : "Alan Mikhail"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Yale University (United States)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://history.yale.edu/people/alan-mikhail"
+      
+Wakako Kumakura:
+  name             : "Wakako Kumakura"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Tokyo University of Foreign Studies (Japan)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.aa.tufs.ac.jp/en/staff/list1/kumakuraw"
+
+Stuart Borsch:
+  name             : "Stuart Borsch"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Assumption University (United States)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.assumption.edu/people-and-departments/directory/stuart-borsch-phd"
+      
+Zoe Griffith:
+  name             : "Zoe Griffith"
+  avatar           : "/assets/images/zoe_griffith_edited.jpg"
+  bio              : "Project Contributor"
+  location         : "Baruch College (United States)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.baruch.cuny.edu/wsas/academics/history/ZoeGriffith.htm"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://baruch-cuny.academia.edu/ZoeGriffith"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/zoeanngriffith"
+      
+Magdi Guirguis:
+  name             : "Magdi Guirguis"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Kafrelsheikh University (Egypt)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://independent.academia.edu/MagdiGuirguis"
+      
+Dalia Hussein:
+  name             : "Dalia Hussein"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : # "university"
+  
+Mathieu Eychenne:
+  name             : "Mathieu Eychenne"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Université Paris Diderot (France)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.ifporient.org/mathieu-eychenne/"
+      
+Robin Seignobos:
+  name             : "Robin Seignobos"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Institut Français d'Archéologie Orientale (Egypt)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://egnet.academia.edu/RobinSeignobos"
+
+Daisuke Igarashi:
+  name             : "Daisuke Igarashi"
+  avatar           : "/assets/images/daisuke_igarashi_edited.jpg"
+  bio              : "Project Contributor"
+  location         : "Waseda University (Japan)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://researchers.waseda.jp/profile/en.2d3749c3717e78e6a61d631028462b56.html"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://waseda.academia.edu/DaisukeIGARASHI"
+      
+Alison L. Gascoigne:
+  name             : "Alison L. Gascoigne"
+  avatar           : "/assets/images/alison_gascoigne_edited.jpg"
+  bio              : "Project Contributor"
+  location         : "University of Southampton (United Kingdom)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.southampton.ac.uk/archaeology/about/staff/alg1w07.page"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://soton.academia.edu/AlisonGascoigne"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/GascoigneA"
+      
+Heba Saad Abdelnaby:
+  name             : "Heba Saad Abdelnaby"
+  avatar           : "/assets/images/heba_mahmoud_saad_edited.jpg"
+  bio              : "Project Contributor"
+  location         : "Alxandria University (Egypt)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://page.academia.edu/HebaAbdelNaby"
+      
+Aleksandar Shopov:
+  name             : "Aleksandar Shopov"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Ludwig-Maximilians-Universität München (Germany)"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.carsoncenter.uni-muenchen.de/staff_fellows/visiting_fellows/aleksandar_shopov/index.html"
+
+Gregory Williams:
+  name             : "Gregory Williams"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Boston University (Germany)"
+      
+Ahmed Abdel Moniem:
+  name             : "Ahmed Abdel Moniem"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : # "Somewhere"
