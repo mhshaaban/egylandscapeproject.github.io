@@ -9,6 +9,6 @@ layout: archive
 <ul>
     {% assign sorted = site.papers | sort: 'date' | reverse %}
     {% for item in sorted %}
-    <li>{{ item.title }}</li>
+    <div class="entries-{{ item.title }}"></div>
     {% endfor %}
 </ul>
