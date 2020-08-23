@@ -6,16 +6,7 @@ layout: archive
 
 <h3 class="archive__subtitle">Recent Papers</h3>
 
-<ul>
-    {% assign sorted = site.papers | sort: 'date' | reverse %}
-    {% for item in sorted %}
-    <li>{{ item.title }}</li>
-    {% endfor %}
-</ul>
-
-{% assign sorted = page.papers | default: 'list' %}
-<div class="entries-{{ sorted }}">
-  {% for item in sorted %}
-    {% include archive-single.html type=sorted %}
-  {% endfor %}
-</div>
+{% assign sorted = site.papers | sort: 'date' | reverse %}
+{% for item in sorted %}
+<div class="entries-{{ item.title }}"></div>
+{% endfor %}
