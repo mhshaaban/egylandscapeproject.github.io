@@ -4,19 +4,8 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].papers | default: "Recent Papers" }}</h3>
+<h3 class="archive__subtitle">Recent Papers</h3>
 
-{% if paginator %}
-  {% assign papers = paginator.papers %}
-{% else %}
-  {% assign papers = site.papers %}
-{% endif %}
-
-{% for paper in papers %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
 
 <h3 class="archive__subtitle">Recent Tweets</h3>
 {% twitter https://twitter.com/EGYLandscape maxwidth=500 limit=5 %}
