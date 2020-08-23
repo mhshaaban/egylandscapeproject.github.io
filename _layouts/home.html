@@ -13,9 +13,9 @@ layout: archive
     {% endfor %}
 </ul>
 
-{% assign entries_layout = page.papers | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
+{% assign sorted = site.papers | default: 'list' %}
+<div class="entries-{{ sorted }}">
+  {% for item in sorted %}
+    {% include archive-single.html type=sorted %}
   {% endfor %}
 </div>
