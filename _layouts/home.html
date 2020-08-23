@@ -5,3 +5,10 @@ layout: archive
 {{ content }}
 
 <h3 class="archive__subtitle">Recent Papers</h3>
+
+<ul>
+    {% assign sorted = site.papers | sort: 'date' | reverse %}
+    {% for item in sorted %}
+    <li>{{ item.title }}</li>
+    {% endfor %}
+</ul>
