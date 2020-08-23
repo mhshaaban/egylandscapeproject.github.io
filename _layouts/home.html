@@ -8,5 +8,5 @@ layout: archive
 
 {% assign sorted = site.papers | sort: 'date' | reverse %}
 {% for item in sorted %}
-[{{ item.title }}]({{ site.url }}{{ site.baseurl }}{{ item.url }})
+<a href="[{{ item.title }}]({{ site.url }}{{ item.url }})">
 {% endfor %}
