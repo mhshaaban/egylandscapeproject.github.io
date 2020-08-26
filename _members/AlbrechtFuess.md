@@ -4,7 +4,7 @@ excerpt: "Project Leader - German Team"
 author: Albrecht Fuess
 toc: false
 toc_sticky: false
-rank: "2"
+date: 2019-01-02"
 layout: single
 ---
 
