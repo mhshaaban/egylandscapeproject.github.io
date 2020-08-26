@@ -4,7 +4,7 @@ Albrecht Fuess:
   name             : "Albrecht Fuess"
   avatar           : "/assets/images/albrecht_fuess_edited.jpg"
   bio              : "Project Leader"
-  location         : "Philipps Universität-Marburg (Germany)"
+  location         : "Philipps Universität-Marburg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -14,7 +14,7 @@ Nicolas Michel:
   name             : "Nicolas Michel"
   avatar           : "/assets/images/nicolas_michel_edited.jpg"
   bio              : "Project Leader"
-  location         : "Aix-Marseille Université (France)"
+  location         : "Aix-Marseille Université"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -24,7 +24,7 @@ Anthony T. Quickel:
   name             : "Anthony T. Quickel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Coordinator"
-  location         : "Philipps Universität-Marburg (Germany)"
+  location         : "Philipps Universität-Marburg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -38,7 +38,7 @@ Muhammad H. Shaaban:
   name             : "Muhammad H. Shaaban"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Coordinator"
-  location         : "Philipps Universität-Marburg (Germany)"
+  location         : "Philipps Universität-Marburg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -61,7 +61,7 @@ Julien Loiseau:
   name             : "Julien Loiseau"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : "Aix-Marseille Université (France)"
+  location         : "Aix-Marseille Université"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,7 +71,7 @@ Clément Onimus:
   name             : "Clément Onimus"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : "Universite Paris-8 (France)"
+  location         : "Universite Paris-8"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -81,7 +81,7 @@ Yossef Rapoport:
   name             : "Yossef Rapoport"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : "Queen Mary, Univesity of London (United Kingdom)"
+  location         : "Queen Mary, Univesity of London"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -91,7 +91,7 @@ Kurt Franz:
   name             : "Kurt Franz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : "Universität Tübingen (Germany)"
+  location         : "Universität Tübingen"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -101,7 +101,7 @@ Astrid Meier:
   name             : "Astrid Meier"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : "Martin-Luther-Universität Halle-Wittenberg (Germany)"
+  location         : "Martin-Luther-Universität Halle-Wittenberg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -111,7 +111,7 @@ Bethany Walker:
   name             : "Bethany Walker"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : "Universität Bonn (Germany)"
+  location         : "Universität Bonn"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -121,7 +121,7 @@ Konrad Hirschler:
   name             : "Konrad Hirschler"
   avatar           : "/assets/images/konrad_hirschler_edited.jpg"
   bio              : "Project Participant"
-  location         : "Freie Universität Berlin (Germany)"
+  location         : "Freie Universität Berlin"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -134,7 +134,7 @@ Emad Abu Ghazi:
   name             : "Emad Abu Ghazi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Cairo University (Egypt)"
+  location         : "Cairo University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -144,7 +144,7 @@ Adam Sabra:
   name             : "Adam Sabra"
   avatar           : "/assets/images/adam_sabra_edited.jpg"
   bio              : "Project Contributor"
-  location         : "University of California - Santa Barbara (United States)"
+  location         : "UC - Santa Barbara"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -157,7 +157,7 @@ Alan Mikhail:
   name             : "Alan Mikhail"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Yale University (United States)"
+  location         : "Yale University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -167,7 +167,7 @@ Wakako Kumakura:
   name             : "Wakako Kumakura"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Tokyo University of Foreign Studies (Japan)"
+  location         : "Tokyo University of Foreign Studies"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -177,7 +177,7 @@ Stuart Borsch:
   name             : "Stuart Borsch"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Assumption University (United States)"
+  location         : "Assumption University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -187,7 +187,7 @@ Zoe Griffith:
   name             : "Zoe Griffith"
   avatar           : "/assets/images/zoe_griffith_edited.jpg"
   bio              : "Project Contributor"
-  location         : "Baruch College (United States)"
+  location         : "Baruch College"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -203,7 +203,7 @@ Magdi Guirguis:
   name             : "Magdi Guirguis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Kafrelsheikh University (Egypt)"
+  location         : "Kafrelsheikh University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -219,7 +219,7 @@ Mathieu Eychenne:
   name             : "Mathieu Eychenne"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Université Paris Diderot (France)"
+  location         : "Université Paris Diderot"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -229,7 +229,7 @@ Robin Seignobos:
   name             : "Robin Seignobos"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Institut Français d'Archéologie Orientale (Egypt)"
+  location         : "Institut Français d'Archéologie Orientale"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -239,7 +239,7 @@ Daisuke Igarashi:
   name             : "Daisuke Igarashi"
   avatar           : "/assets/images/daisuke_igarashi_edited.jpg"
   bio              : "Project Contributor"
-  location         : "Waseda University (Japan)"
+  location         : "Waseda University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -252,7 +252,7 @@ Alison L. Gascoigne:
   name             : "Alison L. Gascoigne"
   avatar           : "/assets/images/alison_gascoigne_edited.jpg"
   bio              : "Project Contributor"
-  location         : "University of Southampton (United Kingdom)"
+  location         : "University of Southampton"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -268,7 +268,7 @@ Heba Saad Abdelnaby:
   name             : "Heba Saad Abdelnaby"
   avatar           : "/assets/images/heba_mahmoud_saad_edited.jpg"
   bio              : "Project Contributor"
-  location         : "Alxandria University (Egypt)"
+  location         : "Alexandria University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -278,7 +278,7 @@ Aleksandar Shopov:
   name             : "Aleksandar Shopov"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Ludwig-Maximilians-Universität München (Germany)"
+  location         : "Ludwig-Maximilians-Universität München"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -288,7 +288,7 @@ Gregory Williams:
   name             : "Gregory Williams"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Boston University (Germany)"
+  location         : "Boston University"
       
 Ahmed Abdel Moniem:
   name             : "Ahmed Abdel Moniem"
