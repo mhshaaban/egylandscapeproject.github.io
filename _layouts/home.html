@@ -4,19 +4,10 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_papers | default: "Recent Working Papers" }}</h3>
-
-{% if paginator %}
-  {% assign papers = paginator.papers %}
-{% else %}
-  {% assign papers = site.papers %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | sort: 'date' | reverse %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in papers %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
+<h3 class="archive__subtitle">Recent Working Papers</h3>
+<div class="entries-grid">
+{% assign sorted = site.papers | sort: 'date' | reverse %}
+{% for item in sorted %}
+<a href="{{ item.url }}"><div class="archive__item-title">{{ item.title }}</div></a>
+<p class="archive__item-excerpt">{{ item.excerpt }}</p>
+{% endfor %}
