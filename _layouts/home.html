@@ -6,7 +6,7 @@ layout: archive
 
 <div class="archive">
 <h3 class="archive__subtitle">Recent Working Papers</h3>
-<div class=".grid__wrapper">
+<div class=".entries-grid">
 {% assign sorted = site.papers | sort: 'date' | reverse %}
 {% for item in sorted %}
 <div class="grid__{{ sorted.item }}">
