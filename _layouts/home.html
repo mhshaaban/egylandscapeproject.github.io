@@ -4,7 +4,6 @@ layout: archive
 
 {{ content }}
 
-<div class="archive">
 <h3 class="archive__subtitle">Recent Working Papers</h3>
 <div class="entries-grid">
 {% assign sorted = site.papers | sort: 'date' | reverse %}
@@ -15,5 +14,4 @@ layout: archive
 <p class="archive__item-excerpt">{{ item.excerpt }}</p>
 {% endfor %}
 </article>
-</div>
 </div>
