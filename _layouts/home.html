@@ -9,5 +9,7 @@ layout: archive
     <div class="grid__wrapper">
 {% assign sorted = site.papers | sort: 'date' | reverse %}
 {% for item in sorted %}
+        {% include archive-single.html type="grid" %}
+        {% endfor %}
     </div>
 </div>
