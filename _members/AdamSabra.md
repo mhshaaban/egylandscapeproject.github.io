@@ -2,6 +2,8 @@
 title: "Adam Sabra"
 excerpt: "Project Contributor"
 author: Adam Sabra
+author_profile: true
+date: "2019-02-14"
 toc: false
 toc_sticky: false
 layout: single
