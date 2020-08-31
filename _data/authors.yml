@@ -2,7 +2,7 @@
 # Site Author(s)
 Albrecht Fuess:
   name             : "Albrecht Fuess"
-  avatar           : "/assets/images/albrecht_fuess_edited.jpg"
+  avatar           : "/assets/images/albrecht_fuess.jpg"
   bio              : "Project Leader"
   location         : "Philipps Universität-Marburg"
   links:
@@ -12,7 +12,7 @@ Albrecht Fuess:
 
 Nicolas Michel:
   name             : "Nicolas Michel"
-  avatar           : "/assets/images/nicolas_michel_edited.jpg"
+  avatar           : "/assets/images/nicolas_michel.jpg"
   bio              : "Project Leader"
   location         : "Aix-Marseille Université"
   links:
@@ -51,8 +51,8 @@ Ghislaine Alleaume:
   name             : "Ghislaine Alleaume"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : # institution, e.g. "Philipps Universität-Marburg (Germany)"
-links:    
+  location         : "CNRS / Aix-Marseille Université
+  links:    
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://iremam.cnrs.fr/spip.php?article20"
@@ -71,7 +71,7 @@ Clément Onimus:
   name             : "Clément Onimus"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : "Universite Paris-8"
+  location         : "Université de Paris VIII"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -101,7 +101,7 @@ Astrid Meier:
   name             : "Astrid Meier"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : "Martin-Luther-Universität Halle-Wittenberg"
+  location         : "Universität Halle-Wittenberg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -116,19 +116,6 @@ Bethany Walker:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://www.mamluk.uni-bonn.de/the-kolleg/organization/forschungsprofessur"
-      
-Konrad Hirschler:
-  name             : "Konrad Hirschler"
-  avatar           : "/assets/images/konrad_hirschler_edited.jpg"
-  bio              : "Project Participant"
-  location         : "Freie Universität Berlin"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://www.geschkult.fu-berlin.de/en/e/islamwiss/staff/Professors/Hirschler/index.html"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://fu-berlin.academia.edu/KonradHirschler"
       
 Emad Abu Ghazi:
   name             : "Emad Abu Ghazi"
@@ -152,16 +139,6 @@ Adam Sabra:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://ucsb.academia.edu/AdamSabra"
-      
-Alan Mikhail:
-  name             : "Alan Mikhail"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Project Contributor"
-  location         : "Yale University"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://history.yale.edu/people/alan-mikhail"
       
 Wakako Kumakura:
   name             : "Wakako Kumakura"
@@ -187,7 +164,7 @@ Zoe Griffith:
   name             : "Zoe Griffith"
   avatar           : "/assets/images/zoe_griffith_edited.jpg"
   bio              : "Project Contributor"
-  location         : "Baruch College"
+  location         : "CUNY - Baruch College"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -203,7 +180,7 @@ Magdi Guirguis:
   name             : "Magdi Guirguis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Kafrelsheikh University"
+  location         : "Kafr al-Shaykh University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -213,7 +190,7 @@ Dalia Hussein:
   name             : "Dalia Hussein"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : # "university"
+  location         : "American University in Cairo"
   
 Mathieu Eychenne:
   name             : "Mathieu Eychenne"
@@ -263,7 +240,17 @@ Alison L. Gascoigne:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/GascoigneA"
-      
+
+Daniel Varisco:
+  name             : "Daniel Varisco"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Institute for Advanced Studies, Princeton"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://page.academia.edu/HebaAbdelNaby"
+
 Heba Saad Abdelnaby:
   name             : "Heba Saad Abdelnaby"
   avatar           : "/assets/images/heba_mahmoud_saad_edited.jpg"
@@ -278,7 +265,7 @@ Aleksandar Shopov:
   name             : "Aleksandar Shopov"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : "Ludwig-Maximilians-Universität München"
+  location         : "Max Planck Institute for the History of Science"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -294,4 +281,16 @@ Ahmed Abdel Moniem:
   name             : "Ahmed Abdel Moniem"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
-  location         : # "Somewhere"
+  location         : "Bibliotheca Alexandrina"
+  
+Omar Abdel-Ghaffar:
+  name             : "Omar Abdel-Ghaffar"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "Harvard"
+  
+Anthony Greco:
+  name             : "Anthony Greco"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Project Contributor"
+  location         : "UC - Santa Barbara"
