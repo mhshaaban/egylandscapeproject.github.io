@@ -2,6 +2,8 @@
 title: "Yossef Rapoport"
 excerpt: "Project Participant"
 author: Yossef Rapoport
+author_profile: true
+date: "2019-01-10"
 toc: false
 toc_sticky: false
 layout: single
