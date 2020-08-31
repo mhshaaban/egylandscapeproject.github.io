@@ -2,6 +2,8 @@
 title: "Gregory Williams"
 excerpt: "Project Contributor"
 author: Gregory Williams
+author_profile: true
+date: "2019-02-17"
 toc: false
 toc_sticky: false
 layout: single
