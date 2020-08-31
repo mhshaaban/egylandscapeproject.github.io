@@ -1,5 +1,6 @@
 ---
 title: "Ghislaine Alleaume"
+excerpt: "Project Contributor"
 author: Ghislaine Alleaume
 date: "2019-01-05"
 toc: false
