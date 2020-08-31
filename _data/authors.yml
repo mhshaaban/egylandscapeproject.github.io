@@ -8,7 +8,7 @@ Albrecht Fuess:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.uni-marburg.de/de/cnms/islamwissenschaft/fachgebiet/team/prof-dr-albrecht-fuess"
+      url: "https://www.uni-marburg.de/de/cnms/islamwissenschaft/fachgebiet/team/prof-dr-albrecht-fuess"
 
 Nicolas Michel:
   name             : "Nicolas Michel"
@@ -18,7 +18,7 @@ Nicolas Michel:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://iremam.cnrs.fr/spip.php?article68&lang=fr"
+      url: "https://iremam.cnrs.fr/spip.php?article68&lang=fr"
       
 Anthony T. Quickel:
   name             : "Anthony T. Quickel"
@@ -28,10 +28,10 @@ Anthony T. Quickel:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "http://www.anthonytquickel.com"
+      url: "http://www.anthonytquickel.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/ATQuickel"
+      url: "https://twitter.com/ATQuickel"
 
 
 Muhammad H. Shaaban:
@@ -42,20 +42,20 @@ Muhammad H. Shaaban:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://qmul.academia.edu/MuhammadShaaban"
+      url: "https://qmul.academia.edu/MuhammadShaaban"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/Mamlukist"
+      url: "https://twitter.com/Mamlukist"
       
 Ghislaine Alleaume:
   name             : "Ghislaine Alleaume"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Participant"
-  location         : "CNRS / Aix-Marseille Université
+  location         : "CNRS / Aix-Marseille Université"
   links:    
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://iremam.cnrs.fr/spip.php?article20"
+      url: "https://iremam.cnrs.fr/spip.php?article20"
     
 Julien Loiseau:
   name             : "Julien Loiseau"
@@ -65,7 +65,7 @@ Julien Loiseau:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://iremam.cnrs.fr/spip.php?article4549"
+      url: "https://iremam.cnrs.fr/spip.php?article4549"
       
 Clément Onimus:
   name             : "Clément Onimus"
@@ -75,7 +75,7 @@ Clément Onimus:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://univ-paris8.academia.edu/ClémentOnimus"
+      url: "https://univ-paris8.academia.edu/ClémentOnimus"
 
 Yossef Rapoport:
   name             : "Yossef Rapoport"
@@ -85,7 +85,7 @@ Yossef Rapoport:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.qmul.ac.uk/history/people/academic-staff/profiles/rapoportyossef.html"
+      url: "https://www.qmul.ac.uk/history/people/academic-staff/profiles/rapoportyossef.html"
       
 Kurt Franz:
   name             : "Kurt Franz"
@@ -95,7 +95,7 @@ Kurt Franz:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/aoi/orient-islamwissenschaft/abteilung/mitarbeiterinnen/kurt-franz/"
+      url: "https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/aoi/orient-islamwissenschaft/abteilung/mitarbeiterinnen/kurt-franz/"
       
 Astrid Meier:
   name             : "Astrid Meier"
@@ -105,7 +105,7 @@ Astrid Meier:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://arabistik.uni-halle.de/mitarbeitende/3216799_3216805/"
+      url: "https://arabistik.uni-halle.de/mitarbeitende/3216799_3216805/"
       
 Bethany Walker:
   name             : "Bethany Walker"
@@ -115,7 +115,7 @@ Bethany Walker:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.mamluk.uni-bonn.de/the-kolleg/organization/forschungsprofessur"
+      url: "https://www.mamluk.uni-bonn.de/the-kolleg/organization/forschungsprofessur"
       
 Emad Abu Ghazi:
   name             : "Emad Abu Ghazi"
@@ -125,7 +125,7 @@ Emad Abu Ghazi:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://scholar.cu.edu.eg/?q=eghazi/biocv"
+      url: "https://scholar.cu.edu.eg/?q=eghazi/biocv"
       
 Adam Sabra:
   name             : "Adam Sabra"
@@ -135,10 +135,10 @@ Adam Sabra:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.history.ucsb.edu/faculty/adam-sabra/"
+      url: "https://www.history.ucsb.edu/faculty/adam-sabra/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://ucsb.academia.edu/AdamSabra"
+      url: "https://ucsb.academia.edu/AdamSabra"
       
 Wakako Kumakura:
   name             : "Wakako Kumakura"
@@ -148,7 +148,7 @@ Wakako Kumakura:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.aa.tufs.ac.jp/en/staff/list1/kumakuraw"
+      url: "https://www.aa.tufs.ac.jp/en/staff/list1/kumakuraw"
 
 Stuart Borsch:
   name             : "Stuart Borsch"
@@ -158,7 +158,7 @@ Stuart Borsch:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.assumption.edu/people-and-departments/directory/stuart-borsch-phd"
+      url: "https://www.assumption.edu/people-and-departments/directory/stuart-borsch-phd"
       
 Zoe Griffith:
   name             : "Zoe Griffith"
@@ -168,13 +168,13 @@ Zoe Griffith:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.baruch.cuny.edu/wsas/academics/history/ZoeGriffith.htm"
+      url: "https://www.baruch.cuny.edu/wsas/academics/history/ZoeGriffith.htm"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://baruch-cuny.academia.edu/ZoeGriffith"
+      url: "https://baruch-cuny.academia.edu/ZoeGriffith"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/zoeanngriffith"
+      url: "https://twitter.com/zoeanngriffith"
       
 Magdi Guirguis:
   name             : "Magdi Guirguis"
@@ -184,7 +184,7 @@ Magdi Guirguis:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://independent.academia.edu/MagdiGuirguis"
+      url: "https://independent.academia.edu/MagdiGuirguis"
       
 Dalia Hussein:
   name             : "Dalia Hussein"
@@ -200,7 +200,7 @@ Mathieu Eychenne:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.ifporient.org/mathieu-eychenne/"
+      url: "https://www.ifporient.org/mathieu-eychenne/"
       
 Robin Seignobos:
   name             : "Robin Seignobos"
@@ -210,7 +210,7 @@ Robin Seignobos:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://egnet.academia.edu/RobinSeignobos"
+      url: "https://egnet.academia.edu/RobinSeignobos"
 
 Daisuke Igarashi:
   name             : "Daisuke Igarashi"
@@ -220,10 +220,10 @@ Daisuke Igarashi:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://researchers.waseda.jp/profile/en.2d3749c3717e78e6a61d631028462b56.html"
+      url: "https://researchers.waseda.jp/profile/en.2d3749c3717e78e6a61d631028462b56.html"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://waseda.academia.edu/DaisukeIGARASHI"
+      url: "https://waseda.academia.edu/DaisukeIGARASHI"
       
 Alison L. Gascoigne:
   name             : "Alison L. Gascoigne"
@@ -233,13 +233,13 @@ Alison L. Gascoigne:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.southampton.ac.uk/archaeology/about/staff/alg1w07.page"
+      url: "https://www.southampton.ac.uk/archaeology/about/staff/alg1w07.page"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://soton.academia.edu/AlisonGascoigne"
+      url: "https://soton.academia.edu/AlisonGascoigne"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/GascoigneA"
+      url: "https://twitter.com/GascoigneA"
 
 Daniel Varisco:
   name             : "Daniel Varisco"
@@ -249,7 +249,7 @@ Daniel Varisco:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://page.academia.edu/HebaAbdelNaby"
+      url: "https://page.academia.edu/HebaAbdelNaby"
 
 Heba Saad Abdelnaby:
   name             : "Heba Saad Abdelnaby"
@@ -259,7 +259,7 @@ Heba Saad Abdelnaby:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://page.academia.edu/HebaAbdelNaby"
+      url: "https://page.academia.edu/HebaAbdelNaby"
       
 Aleksandar Shopov:
   name             : "Aleksandar Shopov"
@@ -269,7 +269,7 @@ Aleksandar Shopov:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.carsoncenter.uni-muenchen.de/staff_fellows/visiting_fellows/aleksandar_shopov/index.html"
+      url: "https://www.carsoncenter.uni-muenchen.de/staff_fellows/visiting_fellows/aleksandar_shopov/index.html"
 
 Gregory Williams:
   name             : "Gregory Williams"
