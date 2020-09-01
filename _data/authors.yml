@@ -288,7 +288,10 @@ Omar Abdel-Ghaffar:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
   location         : "Harvard"
-  
+  - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://cmes.fas.harvard.edu/people/omar-abdel-ghaffar"
+   
 Anthony Greco:
   name             : "Anthony Greco"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
