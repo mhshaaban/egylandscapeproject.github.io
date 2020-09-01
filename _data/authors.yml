@@ -288,6 +288,7 @@ Omar Abdel-Ghaffar:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project Contributor"
   location         : "Harvard"
+  links:
   - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://cmes.fas.harvard.edu/people/omar-abdel-ghaffar"
