@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 permalink: /blog-archive/
-layout: archive
+layout: posts
 author_profile: false
 classes: wide
 ---
