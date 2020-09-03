@@ -4,10 +4,12 @@ layout: archive
 
 {{ content }}
 
+{% assign sorted = site.papers | sort: 'date' | reverse %}
+
 <div>
       <h4 class="archive__subtitle">Recent Working Papers</h4>
       <div class="grid__wrapper">
-        {% for paper in site.papers limit:4 %}
+        {% for item in sorted %}
           {% include archive-single.html type="grid" %}
         {% endfor %}
       </div>
