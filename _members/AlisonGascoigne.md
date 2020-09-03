@@ -15,4 +15,4 @@ With John P. Cooper, "Tinkers, tailors, soldiers and sailors: the city of Tinnis
 
 Edited with Leonie V. Hicks and Marianne O'Doherty, *Journeying Along Medieval Routes in Europe and the Middle East*, (Turnhout: Brepols, 2016.
 
-With John P. Cooper and Ziad Morsy, [مدينة ِتنّيس في العصرين الروماني والا سلا مي: مدخل تاريخي وأثري](https://eprints.soton.ac.uk/443284/1/GascoigneCooperMorsyTinnisBooklet.pdf) (2020)
+With John P. Cooper and Ziad Morsy, [Madinat Tinnīs fī al-ʿAsrayn al-Rūmānī wa-l Islāmī](https://eprints.soton.ac.uk/443284/1/GascoigneCooperMorsyTinnisBooklet.pdf) (2020)
