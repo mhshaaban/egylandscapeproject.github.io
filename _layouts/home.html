@@ -18,3 +18,18 @@ layout: archive
     </div>
     {% endfor %}
 </div>
+
+<h3 class="archive__subtitle">Recent Blog Posts</h3>
+{% assign posts = site.posts | sort: 'date' | reverse %}
+<div class="entries-grid">
+    {% for post in posts %}
+    <div class="grid__item">
+        <article class="article__item">
+            <a href="{{ post.url }}">
+                <div class="archive__item-title">{{ post.title }}</div>
+            </a>
+            <p class="archive__item-excerpt">{{ post.excerpt }}</p>
+        </article>
+    </div>
+    {% endfor %}
+</div>
