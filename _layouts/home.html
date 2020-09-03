@@ -4,11 +4,10 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">Recent Working Papers</h3>
+<h3 class="archive__subtitle">Recent Working Papers</h3
 
-<div class="grid__wrapper">
-{% for item in sorted %}
-<a href="{{ item.url }}"><div class="archive__item-title">{{ item.title }}</div></a>
-<p class="archive__item-excerpt">{{ item.excerpt }}</p>
+<div>
+{% for paper in site.papers %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
