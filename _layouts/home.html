@@ -4,6 +4,8 @@ layout: archive
 
 {{ content }}
 
+<div>
+
 <h3 class="archive__subtitle">Recent Working Papers</h3>
 
 {% assign sorted = site.papers | sort: 'date' | reverse %}
@@ -11,3 +13,26 @@ layout: archive
 <a href="{{ item.url }}"><div class="archive__item-title">{{ item.title }}</div></a>
 <p class="archive__item-excerpt">{{ item.excerpt }}</p>
 {% endfor %}
+
+</div>
+
+
+<div>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Blog Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
+
+</div>
