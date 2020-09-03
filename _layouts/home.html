@@ -18,11 +18,3 @@ layout: archive
     </div>
     {% endfor %}
 </div>
-
-<h3 class="archive__subtitle">Recent Blog Posts</h3>
-{% assign posts = site.posts %}
-<div class="entries-grid">
-  {% for post in posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
