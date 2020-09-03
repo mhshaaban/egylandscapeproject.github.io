@@ -6,8 +6,8 @@ layout: archive
 
 <h3 class="archive__subtitle">Recent Working Papers</h3
 
-<div class="entries__grid">
 {% assign sorted in site.papers | sort: 'date' | forward %}
+<div class="entries__grid">
 {% for item in sorted %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
