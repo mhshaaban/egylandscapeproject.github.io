@@ -4,11 +4,17 @@ layout: archive
 
 {{ content }}
 
+<h3 class="archive__subtitle">Recent Working Papers</h3>
 {% assign sorted = site.papers | sort: 'date' | reverse %}
-
-      <h4 class="archive__subtitle">Recent Working Papers</h4>
-      <div class="grid__wrapper">
-        {% for item in sorted %}
-          {% include archive-single.html type="grid" %}
-        {% endfor %}
-      </div>
+<div class="entries-grid">
+    {% for item in sorted %}
+    <div class="grid__item">
+        <article class="article__item">
+            <a href="{{ item.url }}">
+                <div class="archive__item-title">{{ item.title }}</div>
+            </a>
+            <p class="archive__item-excerpt">{{ item.excerpt }}</p>
+        </article>
+    </div>
+    {% endfor %}
+</div>
