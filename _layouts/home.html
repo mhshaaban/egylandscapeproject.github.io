@@ -6,6 +6,15 @@ layout: archive
 
 <h3 class="archive__subtitle">Recent Working Papers</h3>
 
+{% assign papers = site.papers %}
+
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+<div class="entries-{{ entries_layout }}">
+    {% for paper in papers %}
+    {% include archive-single.html type=entries_layout %}
+    {% endfor %}
+</div>
+
 <h3 class="archive__subtitle">Recent Blog Posts</h3>
 
 {% assign posts = site.posts %}
