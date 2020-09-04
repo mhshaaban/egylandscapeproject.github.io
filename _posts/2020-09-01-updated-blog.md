@@ -13,6 +13,8 @@ Our updated website will serve as a repository for our
 
 #### [Team Members](https://www.egylandscape.org/members/)
 
+Visitors to our website can view all of our team members' and see their recent publications. 
+
 #### [Workshops](https://www.egylandscape.org/workshops/)
 
 #### [Activities](https://www.egylandscape.org/activities/)
@@ -21,5 +23,5 @@ Our website also has reports on our team members' particpation in various, confe
 
 #### [Working Papers](https://www.egylandscape.org/papers/)
 
-You will able to read the our team's latest working papers as they come out [**here**](https://www.egylandscape.org/papers/). The first workign paper by our team's co-leader [Prof. Albrecht Fuess](https://www.egylandscape.org/members/AlbrechtFuess/) is entitled [Waqfization in the late Mamluk Empire: A deliberate policy or chaos management?](https://www.egylandscape.org/papers/June2020_Fuess/) is already online and can be downloaded for reading offline [**here**](https://www.egylandscape.org/papers/June2020_Fuess_WorkingPaper.pdf). 
+You will able to read the our team's latest working papers as they come out [**here**](https://www.egylandscape.org/papers/). The first working paper by our team's co-leader [Prof. Albrecht Fuess](https://www.egylandscape.org/members/AlbrechtFuess/) is entitled ["Waqfization in the late Mamluk Empire: A deliberate policy or chaos management?"](https://www.egylandscape.org/papers/June2020_Fuess/) is already online and can be downloaded for reading offline [**here**](https://www.egylandscape.org/papers/June2020_Fuess_WorkingPaper.pdf). 
 *Note: Anthony should we provide a calendar of upcoming papers here as well?
