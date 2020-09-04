@@ -1,6 +1,7 @@
 ---
 title: "Ghislaine Alleaume"
 excerpt: "Project Contributor"
+institution: "CNRS / Aix-Marseille Université"
 author: Ghislaine Alleaume
 author_profile: true
 date: "2019-01-05"
