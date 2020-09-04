@@ -1,6 +1,7 @@
 ---
 title: "Yossef Rapoport"
 excerpt: "Project Participant"
+institution: "Queen Mary, Univesity of London"
 author: Yossef Rapoport
 author_profile: true
 date: "2019-01-10"
