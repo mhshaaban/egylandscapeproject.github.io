@@ -1,6 +1,7 @@
 ---
 title: "Julien Loiseau"
 excerpt: "Project Participant"
+institution: "Aix-Marseille Université"
 author: Julien Loiseau
 author_profile: true
 date: "2019-01-07"
