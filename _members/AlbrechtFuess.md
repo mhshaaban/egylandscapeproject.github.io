@@ -1,6 +1,7 @@
 ---
 title: "Albrecht Fuess"
-excerpt: "Project Leader - German Team"
+excerpt: "Project Leader"
+institution: "Philipps Universität-Marburg"
 author: Albrecht Fuess
 toc: false
 toc_sticky: false
