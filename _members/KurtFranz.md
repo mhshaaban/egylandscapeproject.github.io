@@ -1,6 +1,7 @@
 ---
 title: "Kurt Franz"
 excerpt: "Project Participant"
+institution: "Universität Tübingen"
 author: Kurt Franz
 author_profile: true
 date: "2019-01-06"
