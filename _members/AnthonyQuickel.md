@@ -1,6 +1,7 @@
 ---
 title: "Anthony T. Quickel"
-excerpt: "Project Coordinator - Philipps Universität Marburg"
+excerpt: "Project Coordinator"
+institution: "Philipps Universität-Marburg"
 author: Anthony T. Quickel
 toc: false
 toc_sticky: false
