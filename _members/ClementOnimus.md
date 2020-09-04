@@ -1,6 +1,7 @@
 ---
 title: "Clément Onimus"
 excerpt: "Project Participant"
+institution: "Université de Paris VIII"
 author: Clément Onimus
 author_profile: true
 date: "2019-01-09"
