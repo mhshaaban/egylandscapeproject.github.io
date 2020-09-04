@@ -15,4 +15,4 @@ layout: single
 
 "La Compagnie du canal de Suez et l'eau du Nil (1854-1896)," in *L'isthme et l'Égypte au temps de la Compagnie universelle du canal maritime de Suez (1857-1956)*, ed. by Claudine Piaton (Cairo: Ifao, 2016): pp. 273-302.
 
-["Deux familles de l'Ancien Régime: Les héritiers de fonctionnaires civils au Caire au XVI^e^ siècle,"](https://dyntran.hypotheses.org/1596#more-1596) DYNTRAN Working Papers 18, online edition (November 2016).
+["Deux familles de l'Ancien Régime: Les héritiers de fonctionnaires civils au Caire au XVI<sup>e</sup> siècle,"](https://dyntran.hypotheses.org/1596#more-1596) DYNTRAN Working Papers 18, online edition (November 2016).
