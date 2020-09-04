@@ -1,6 +1,7 @@
 ---
 title: "Nicolas Michel"
-excerpt: "Project Leader - Aix-Marseille Université"
+excerpt: "Project Leader"
+institution: "Aix-Marseille Université"
 author: Nicolas Michel
 toc: false
 toc_sticky: false
