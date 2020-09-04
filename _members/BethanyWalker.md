@@ -1,6 +1,7 @@
 ---
 title: "Bethany Walker"
 excerpt: "Project Participant"
+institution: "Universität Bonn"
 author: Bethany Walker
 author_profile: true
 date: "2019-01-11"
