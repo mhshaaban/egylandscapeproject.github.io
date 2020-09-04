@@ -1,6 +1,7 @@
 ---
 title: "Astrid Meier"
 excerpt: "Project Participant"
+institution: "Universität Halle-Wittenberg"
 author: Astrid Meier
 author_profile: true
 date: "2019-01-08"
