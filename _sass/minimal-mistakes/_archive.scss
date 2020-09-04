@@ -85,6 +85,19 @@
   }
 }
 
+.archive__item-institution {
+  margin-top: 0;
+  font-size: $type-size-6;
+
+  & + p {
+    text-indent: 0;
+  }
+
+  a {
+    position: relative;
+  }
+}
+
 .archive__item-teaser {
   position: relative;
   border-radius: $border-radius;
@@ -207,6 +220,15 @@
   }
 
   .archive__item-excerpt {
+    display: none;
+
+    @include breakpoint($medium) {
+      display: block;
+      font-size: $type-size-6;
+    }
+  }
+
+  .archive__item-institution {
     display: none;
 
     @include breakpoint($medium) {
