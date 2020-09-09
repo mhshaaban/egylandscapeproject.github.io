@@ -2,6 +2,7 @@
 title: "Yossef Rapoport"
 excerpt: "Project Participant"
 institution: "Queen Mary, Univesity of London"
+avatar: "/assets/images/yossef_rapoport_edited.jpg"
 author: Yossef Rapoport
 author_profile: true
 date: "2019-01-10"
