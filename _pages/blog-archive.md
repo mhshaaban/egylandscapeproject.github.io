@@ -5,5 +5,3 @@ layout: posts
 author_profile: false
 classes: wide
 ---
-
-#### Coming Soon
