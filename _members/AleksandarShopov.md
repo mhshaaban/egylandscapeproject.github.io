@@ -2,6 +2,8 @@
 title: "Aleksandar Shopov"
 excerpt: "Project Contributor"
 author: Aleksandar Shopov
+institution: "Max Planck Institute for the History of Science"
+avatar: "/assets/images/aleksandar_shopov_edited.jpg"
 author_profile: true
 date: "2019-02-16"
 toc: false
