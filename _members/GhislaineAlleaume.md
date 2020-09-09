@@ -5,6 +5,7 @@ institution: "CNRS / Aix-Marseille Université"
 author: Ghislaine Alleaume
 author_profile: true
 date: "2019-01-05"
+avatar: "/assets/images/EGYLandscape_logo_square.png"
 toc: false
 toc_sticky: false
 layout: single
