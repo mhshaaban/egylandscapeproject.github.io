@@ -3,7 +3,7 @@ title: "Gregory Williams"
 excerpt: "Project Contributor"
 author: Gregory Williams
 institution: "Boston University"
-avatar: "/assets/images/gregory_williams_edited.jpg"
+avatar: "/assets/images/gregory_williams_edit.jpg"
 author_profile: true
 date: "2019-02-17"
 toc: false
