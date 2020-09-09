@@ -36,7 +36,7 @@ Anthony T. Quickel:
 
 Muhammad H. Shaaban:
   name             : "Muhammad H. Shaaban"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Coordinator"
   location         : "Philipps Universität-Marburg"
   links:
@@ -49,7 +49,7 @@ Muhammad H. Shaaban:
       
 Ghislaine Alleaume:
   name             : "Ghislaine Alleaume"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Participant"
   location         : "CNRS / Aix-Marseille Université"
   links:    
@@ -59,7 +59,7 @@ Ghislaine Alleaume:
     
 Julien Loiseau:
   name             : "Julien Loiseau"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/julien_loiseau_edited.jpg"
   bio              : "Project Participant"
   location         : "Aix-Marseille Université"
   links:
@@ -69,7 +69,7 @@ Julien Loiseau:
       
 Clément Onimus:
   name             : "Clément Onimus"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/clement_onimus_edited.jpg"
   bio              : "Project Participant"
   location         : "Université de Paris VIII"
   links:
@@ -79,7 +79,7 @@ Clément Onimus:
 
 Yossef Rapoport:
   name             : "Yossef Rapoport"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/yossef_rapoport_edited.jpg"
   bio              : "Project Participant"
   location         : "Queen Mary, Univesity of London"
   links:
@@ -89,7 +89,7 @@ Yossef Rapoport:
       
 Kurt Franz:
   name             : "Kurt Franz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kurt_franz_edited.jpg"
   bio              : "Project Participant"
   location         : "Universität Tübingen"
   links:
@@ -99,7 +99,7 @@ Kurt Franz:
       
 Astrid Meier:
   name             : "Astrid Meier"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/astreid_meier_edited.jpg"
   bio              : "Project Participant"
   location         : "Universität Halle-Wittenberg"
   links:
@@ -109,7 +109,7 @@ Astrid Meier:
       
 Bethany Walker:
   name             : "Bethany Walker"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Participant"
   location         : "Universität Bonn"
   links:
@@ -119,7 +119,7 @@ Bethany Walker:
       
 Emad Abu Ghazi:
   name             : "Emad Abu Ghazi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Contributor"
   location         : "Cairo University"
   links:
@@ -142,7 +142,7 @@ Adam Sabra:
       
 Wakako Kumakura:
   name             : "Wakako Kumakura"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Contributor"
   location         : "Tokyo University of Foreign Studies"
   links:
@@ -152,7 +152,7 @@ Wakako Kumakura:
 
 Stuart Borsch:
   name             : "Stuart Borsch"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Contributor"
   location         : "Assumption University"
   links:
@@ -194,7 +194,7 @@ Dalia Hussein:
   
 Mathieu Eychenne:
   name             : "Mathieu Eychenne"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Contributor"
   location         : "Université Paris Diderot"
   links:
@@ -204,7 +204,7 @@ Mathieu Eychenne:
       
 Robin Seignobos:
   name             : "Robin Seignobos"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Contributor"
   location         : "Institut Français d'Archéologie Orientale"
   links:
@@ -279,13 +279,13 @@ Gregory Williams:
       
 Ahmed Abdel Moniem:
   name             : "Ahmed Abdel Moniem"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Contributor"
   location         : "Bibliotheca Alexandrina"
   
 Omar Abdel Ghaffar:
   name             : "Omar Abdel-Ghaffar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/omar_abdelghaffar_edited.jpg"
   bio              : "Project Contributor"
   location         : "Harvard"
   links:
@@ -295,6 +295,6 @@ Omar Abdel Ghaffar:
    
 Anthony Greco:
   name             : "Anthony Greco"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/EGYLandscape_logo_square.png"
   bio              : "Project Contributor"
   location         : "UC - Santa Barbara"
