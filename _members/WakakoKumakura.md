@@ -2,6 +2,8 @@
 title: "Wakako Kumakura"
 excerpt: "Project Contributor"
 author: Wakako Kumakura
+institution: "Tokyo University of Foreign Studies"
+avatar: "/assets/images/EGYLandscape_logo_square.png"
 author_profile: true
 date: "2019-02-13"
 toc: false
