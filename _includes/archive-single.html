@@ -19,7 +19,7 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and avatar %}
-      <div class="author__avatar">
+      <div class="archive__avatar">
         <img src=
           {% if avatar contains "://" %}
             "{{ avatar }}"
