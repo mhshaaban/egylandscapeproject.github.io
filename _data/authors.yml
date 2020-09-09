@@ -178,7 +178,7 @@ Zoe Griffith:
       
 Magdi Guirguis:
   name             : "Magdi Guirguis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/magdi_guirguis_edited.jpg"
   bio              : "Project Contributor"
   location         : "Kafr al-Shaykh University"
   links:
