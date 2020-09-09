@@ -2,6 +2,8 @@
 title: "Heba Saad Abdelnaby"
 excerpt: "Project Contributor"
 author: Heba Saad Abdelnaby
+institution: "Alexandria University"
+avatar: "/assets/images/heba_mahmoud_saad_edited.jpg"
 author_profile: true
 date: "2019-02-03"
 toc: false
