@@ -5,6 +5,7 @@ institution: "Universität Tübingen"
 author: Kurt Franz
 author_profile: true
 date: "2019-01-06"
+avatar: "/assets/images/kurt_franz_edited.jpg"
 toc: false
 toc_sticky: false
 layout: single
