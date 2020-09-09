@@ -5,6 +5,7 @@ institution: "Universität Halle-Wittenberg"
 author: Astrid Meier
 author_profile: true
 date: "2019-01-08"
+avatar: "/assets/images/astrid_meier_edited.jpg"
 toc: false
 toc_sticky: false
 layout: single
