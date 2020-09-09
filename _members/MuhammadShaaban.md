@@ -4,6 +4,7 @@ excerpt: "Project Coordinator"
 institution: "Philipps Universität-Marburg"
 author: Muhammad H. Shaaban
 date: "2019-01-04"
+avatar: "/assets/images/EGYLandscape_logo_square.png"
 toc: false
 toc_sticky: false
 layout: single
