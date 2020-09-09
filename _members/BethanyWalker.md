@@ -2,6 +2,7 @@
 title: "Bethany Walker"
 excerpt: "Project Participant"
 institution: "Universität Bonn"
+avatar: "/assets/images/EGYLandscape_logo_square.png"
 author: Bethany Walker
 author_profile: true
 date: "2019-01-11"
