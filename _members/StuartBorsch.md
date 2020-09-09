@@ -2,7 +2,7 @@
 title: "Stuart Borsch"
 excerpt: "Project Contributor"
 author: Stuart Borsch
-institution: "Assumption University
+institution: "Assumption University"
 avatar: "/assets/images/EGYLandscape_logo_square.png"
 author_profile: true
 date: "2019-02-05"
