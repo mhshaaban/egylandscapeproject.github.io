@@ -2,6 +2,8 @@
 title: "Adam Sabra"
 excerpt: "Project Contributor"
 author: Adam Sabra
+institution: "UC - Santa Barbara"
+avatar: "/assets/images/adam_sabra_edited.jpg"
 author_profile: true
 date: "2019-02-14"
 toc: false
