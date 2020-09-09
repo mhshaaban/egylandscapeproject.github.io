@@ -1,5 +1,5 @@
 ---
-title: "Muhammad Shaaban"
+title: "Muhammad H. Shaaban"
 excerpt: "Project Coordinator"
 institution: "Philipps Universität-Marburg"
 author: Muhammad H. Shaaban
