@@ -11,6 +11,8 @@ Our updated website will serve as a repository for our events, research projects
 
 ### [About Our Project](https://www.egylandscape.org/about/)
 
+This three-year project, the first of its kind, aims to explore the historical landscapes of Egypt throughout the thirteenth and eighteenth centuries and is comprised of leading experts in a diverse array of specialities including archeology, history and environmental studies. Jointly funded by the French and German science foundations — Agence nationale de la recherche (ANR) and Deutsche Forschungsgemeinschaft (DFG) — the EGYLandscape Project is codirected by [Prof. Nicolas Michel](https://www.egylandscape.org/members/NicolasMichel/) (Aix-Marseille University, France) and [Prof. Albrecht Fuess](https://www.egylandscape.org/members/AlbrechtFuess/) (University of Marburg, Germany). The cooperation centers upon the transformations occurring within pre-modern rural Egypt, an issue of upmost importance at the current moment. For a more in-depth look at our project and its goals, see [here](https://www.egylandscape.org/about/).
+
 ### [Team Members](https://www.egylandscape.org/members/)
 
 Visitors to our website can view all of our team members' and see their recent publications. 
