@@ -2,6 +2,8 @@
 title: "Mathieu Eychenne"
 excerpt: "Project Contributor"
 author: Mathieu Eychenne
+institution: "Université Paris Diderot"
+avatar: "/assets/images/EGYLandscape_logo_square.png"
 author_profile: true
 date: "2019-02-06"
 toc: false
