@@ -1,6 +1,6 @@
 ---
 title: "Inaugural Workshop of the EGYLandscape Project: Sources, Methods, and Tools - 2019"
-excerpt: "Philipps-Universität Marburg (Germany"
+excerpt: "Philipps-Universität Marburg (Germany)"
 toc: true
 toc_sticky: true
 layout: single
