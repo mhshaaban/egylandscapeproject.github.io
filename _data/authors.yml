@@ -22,7 +22,7 @@ Nicolas Michel:
       
 Anthony T. Quickel:
   name             : "Anthony T. Quickel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/anthony_quickel_edited.jpg"
   bio              : "Project Coordinator"
   location         : "Philipps Universität-Marburg"
   links:
@@ -188,7 +188,7 @@ Magdi Guirguis:
       
 Dalia Hussein:
   name             : "Dalia Hussein"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dalia_hussein_edited.jpg"
   bio              : "Project Contributor"
   location         : "American University in Cairo"
   
@@ -243,7 +243,7 @@ Alison L. Gascoigne:
 
 Daniel Varisco:
   name             : "Daniel Varisco"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/daniel_varisco_edited.jpg"
   bio              : "Project Contributor"
   location         : "Institute for Advanced Studies, Princeton"
   links:
@@ -263,7 +263,7 @@ Heba Saad Abdelnaby:
       
 Aleksandar Shopov:
   name             : "Aleksandar Shopov"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/aleksandar_shopov_edited.jpg"
   bio              : "Project Contributor"
   location         : "Max Planck Institute for the History of Science"
   links:
@@ -273,7 +273,7 @@ Aleksandar Shopov:
 
 Gregory Williams:
   name             : "Gregory Williams"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/gregory_williams_edited.jpg"
   bio              : "Project Contributor"
   location         : "Boston University"
       
