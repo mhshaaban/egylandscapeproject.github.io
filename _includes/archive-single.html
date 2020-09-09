@@ -7,7 +7,7 @@
 {% if post.avatar %}
   {% capture avatar %}{{ post.avatar }}{% endcapture %}
 {% else %}
-  {% assign teaser = site.teaser %}
+  {% assign avatar = site.avatar %}
 {% endif %}
 
 {% if post.id %}
