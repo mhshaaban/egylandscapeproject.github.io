@@ -1,6 +1,7 @@
 ---
-title: "Second Workshop of the EGYLandscape Project: Next Steps - 2020"
-excerpt: "A Virtual Gathering"
+title: "Second Workshop of the EGYLandscape Project"
+excerpt: "Next Steps - 2020"
+institution: "A Virtual Gathering"
 toc: true
 toc_sticky: true
 layout: single
