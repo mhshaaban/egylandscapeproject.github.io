@@ -6,7 +6,7 @@ author: Anthony T. Quickel
 toc: false
 toc_sticky: false
 date: "2019-01-03"
-avatarPic: "/assets/images/anthony_quickel_edited.jpg"
+avatar: "/assets/images/anthony_quickel_edited.jpg"
 layout: single
 ---
 
