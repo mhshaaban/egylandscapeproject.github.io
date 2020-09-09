@@ -5,14 +5,14 @@ toc: true
 toc_sticky: true
 layout: single
 gallery:
-  - url: /assets/images/june_8th_session.jpeg
-    image_path: /assets/images/june_8th_session.jpeg
+  - url: /assets/images/june_8th_session.jpg
+    image_path: /assets/images/june_8th_session.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/prof_borsch_presenting.jpeg
-    image_path: /assets/images/prof_borsch_presenting.jpeg
+  - url: /assets/images/prof_borsch_presenting.jpg
+    image_path: /assets/images/prof_borsch_presenting.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/june_9th_session.jpeg
-    image_path: /assets/images/june_9th_session.jpeg
+  - url: /assets/images/june_9th_session.jpg
+    image_path: /assets/images/june_9th_session.jpg
     alt: "placeholder image 3"
 ---
 
