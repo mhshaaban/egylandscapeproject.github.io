@@ -2,6 +2,8 @@
 title: "Emad Abu Ghazi"
 excerpt: "Project Contritubor"
 author: Emad Abu Ghazi
+institution: "Cairo University"
+avatar: "/assets/images/EGYLandscape_logo_square.png"
 author_profile: true
 date: "2019-02-04"
 toc: false
