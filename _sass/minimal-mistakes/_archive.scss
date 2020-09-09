@@ -485,7 +485,8 @@
 .archive__avatar {
   display: table-cell;
   vertical-align: top;
-  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
   width: 36px;
   height: 36px;
 
