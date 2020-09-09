@@ -5,6 +5,7 @@ institution: "Aix-Marseille Université"
 author: Julien Loiseau
 author_profile: true
 date: "2019-01-07"
+avatar: "/assets/images/julien_loiseau_edited.jpg"
 toc: false
 toc_sticky: false
 layout: single
