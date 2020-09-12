@@ -1,5 +1,6 @@
 ---
 title: "Launch of Egylandscape's Project Website"
+excerpt: "We are excited to announce the launch of Egylandscape's Project updated website!"
 tags:
   - Website
   - Update
