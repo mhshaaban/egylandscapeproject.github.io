@@ -504,3 +504,20 @@
     }
   }
 }
+
+/*
+   Archive Item Type For Homepage
+   ========================================================================== */
+.archive__item-institution {
+  margin-top: 0;
+  font-style: italic;
+  font-size: $type-size-4;
+
+  & + p {
+    text-indent: 0;
+  }
+
+  a {
+    position: relative;
+  }
+}
