@@ -39,6 +39,9 @@ feature_row4:
 
 <div>
 <h3 class="archive__subtitle">Recent Working Papers & Blog Posts</h3>
+{% assign papers = site.papers | sort: 'date' | reverse %}
+{% assign posts = site.posts | sort: 'date' | reverse %}
+{% assign publications = papers | concat: posts %}
 <div class="entries-grid">
     {% for item in publications %}
     <div class="grid__item">
