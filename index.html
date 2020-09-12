@@ -54,13 +54,3 @@ feature_row4:
 </div>
 </div>
 
-<div>
-
-{% assign posts = site.posts %}
-<h3 class="archive__subtitle">Recent Blog Posts</h3>
-<div class="entries-grid">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-</div>
