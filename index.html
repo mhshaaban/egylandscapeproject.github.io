@@ -46,6 +46,7 @@ feature_row4:
     {% for item in publications %}
     <div class="grid__item">
         <article class="article__item">
+            <p class="archive__item-type">{{ item.type }}</p>
             <a href="{{ item.url }}">
                 <div class="archive__item-title">{{ item.title }}</div>
             </a>
