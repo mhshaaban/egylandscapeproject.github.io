@@ -28,6 +28,7 @@ feature_row4:
     btn_label: "Learn more"
 ---
 
+<div>
 <h3 class="archive__subtitle">Recent Working Papers</h3>
 {% assign sorted = site.papers | sort: 'date' | reverse %}
 <div class="entries-grid">
@@ -42,9 +43,10 @@ feature_row4:
     </div>
     {% endfor %}
 </div>
-
+</div>
 {{ content }}
 
+<div>
 <h3 class=archive__subtitle>Our Project Sponsors</h3>
 
 {% include feature_row type="left" %}
@@ -54,3 +56,4 @@ feature_row4:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
+</div>
