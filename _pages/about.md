@@ -7,14 +7,12 @@ layout: single
 permalink: /about/
 feature_row:
   - image_path: "/assets/images/ANR.png"
-    title: "ANR"
     excerpt: "The French National Research Agency (ANR) is a public administrative institution under the authority of the French Ministry of Higher Education, Research and Innovation. The agency funds project-based research carried out by public operators cooperating with each other or with private companies."
     url: "https://anr.fr/"
     btn_class: ".btn .btn--inverse .btn--small"
     btn_label: "Learn more"
 feature_row2:
   - image_path: "/assets/images/DFG.png"
-    title: "DFG"
     excerpt: "The Deutsche Forschungsgemeinschaft (DFG) is the self-governing organisation for science and research in Germany. It serves all branches of science and the humanities. In organisational terms, the DFG is an association under private law. Its membership consists of German research universities, non-university research institutions, scientific associations and the Academies of Science and the Humanities."
     url: "https://www.dfg.de/"
     btn_class: ".btn .btn--inverse .btn--small"
