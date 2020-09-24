@@ -10,7 +10,7 @@ layout: single
 ---
 
 
-[*Download PDF Here*](https://www.egylandscape.org/papers/June2020_Fuess_WorkingPaper.pdf)
+<i class="fa fa-file-pdf-o fa-sm" aria-hidden="true"></i> [*Download PDF Here*](https://www.egylandscape.org/papers/June2020_Fuess_WorkingPaper.pdf)
 
 ### Author: [Prof. Albrecht Fuess](https://www.egylandscape.org/members/AlbrechtFuess/)
 **Chair of Islamic Studies** 
