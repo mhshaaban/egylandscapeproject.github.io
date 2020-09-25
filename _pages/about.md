@@ -5,6 +5,30 @@ toc: true
 toc_sticky: true
 layout: single
 permalink: /about/
+feature_row:
+  - image_path: "/assets/images/ANR.png"
+    excerpt: "The French National Research Agency (ANR) is a public administrative institution under the authority of the French Ministry of Higher Education, Research and Innovation. The agency funds project-based research carried out by public operators cooperating with each other or with private companies."
+    url: "https://anr.fr/"
+    btn_class: ".btn .btn--inverse .btn--small"
+    btn_label: "Learn more"
+feature_row2:
+  - image_path: "/assets/images/DFG.png"
+    excerpt: "The Deutsche Forschungsgemeinschaft (DFG) is the self-governing organisation for science and research in Germany. It serves all branches of science and the humanities. In organisational terms, the DFG is an association under private law. Its membership consists of German research universities, non-university research institutions, scientific associations and the Academies of Science and the Humanities."
+    url: "https://www.dfg.de/"
+    btn_class: ".btn .btn--inverse .btn--small"
+    btn_label: "Learn more"
+feature_row3:
+  - image_path: assets/images/aix_uni_logo.png
+    excerpt: "Aix-Marseille Université"
+    url: "https://www.univ-amu.fr/"
+    btn_class: ".btn .btn--inverse .btn--small"
+    btn_label: "Learn more"
+feature_row4:
+  - image_path: /assets/images/philipps_uni_logo.png
+    excerpt: "Philipps-Universität Marburg"
+    url: "https://www.uni-marburg.de/"
+    btn_class: ".btn .btn--inverse .btn--small"
+    btn_label: "Learn more"
 ---
 
 ## Overview
@@ -12,10 +36,10 @@ permalink: /about/
 This three-year project, the first of its kind, aims to explore the
 historical landscapes of Egypt throughout the thirteenth and eighteenth
 centuries and is comprised of leading experts in a diverse array of
-specialities including archeology, history and environmental studies.
+specialties including archeology, history and environmental studies.
 Jointly funded by the French and German science foundations --- Agence
 nationale de la recherche (ANR) and Deutsche
-Forschungsgemeinschaft (DFG) --- the EGYLandscape Project is codirected
+Forschungsgemeinschaft (DFG) --- the EGYLandscape Project is co-directed
 by Prof. Nicolas Michel (Aix-Marseille University, France) and Prof.
 Albrecht Fuess (University of Marburg, Germany). The cooperation centers
 upon the transformations occurring within pre-modern rural Egypt, an
@@ -85,7 +109,7 @@ project: transformations in agriculture, landscapes, and ecology.
 
 To this end, the EGYLandscape Project is hosting four annual workshops:
 - [x] Marburg (2019)
-- [ ] Cairo (2020)
+- [x] ~~Cairo~~ (2020) Virtual Due to COVID-19
 - [ ] Alexandria (2021)
 - [ ] Aix-en-Provence (2022).
 
@@ -104,3 +128,15 @@ Egypt in the Mamluk and Ottoman periods by showing settlement patterns,
 resource distribution, agricultural activities, land use, and more. This
 will endure beyond the end of the project in 2022 as a resource for
 future researchers.
+
+## Sponsors
+
+{% include feature_row type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+## Hosts
+
+{% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}

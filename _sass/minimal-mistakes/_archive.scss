@@ -85,6 +85,20 @@
   }
 }
 
+.archive__item-institution {
+  margin-top: -1.5em;
+  font-style: italic;
+  font-size: $type-size-7;
+
+  & + p {
+    text-indent: 0;
+  }
+
+  a {
+    position: relative;
+  }
+}
+
 .archive__item-teaser {
   position: relative;
   border-radius: $border-radius;
@@ -212,6 +226,16 @@
     @include breakpoint($medium) {
       display: block;
       font-size: $type-size-6;
+    }
+  }
+
+  .archive__item-institution {
+    display: none;
+
+    @include breakpoint($medium) {
+      display: block;
+      font-style: italic;
+      font-size: $type-size-7;
     }
   }
 
@@ -452,4 +476,51 @@
 	.feature__wrapper {
 		display: inline-block;
 	}
+}
+
+/*
+   Team Members Avatar For Page
+   ========================================================================== */
+
+.archive__avatar {
+  display: table-cell;
+  vertical-align: middle;
+  width: 36px;
+  height: 36px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 110px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+
+/*
+   Archive Item Type For Homepage
+   ========================================================================== */
+.archive__item-type {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0em;
+  margin-left: 0px;
+  font-style: italic;
+  font-size: $type-size-5;
+
+  & + p {
+    text-indent: 0;
+  }
+
+  a {
+    position: relative;
+  }
 }

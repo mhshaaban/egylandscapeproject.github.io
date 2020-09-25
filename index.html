@@ -1,11 +1,32 @@
 ---
-layout: home
+layout: splash
 author_profile: false
 tagline: "Exploring the historical landscapes of Egypt throughout the thirteenth and eighteenth centuries."
 header:
-  overlay_image: /assets/images/background_image_update_Aug2020.jpg
+  overlay_image: /assets/images/updated_background_image.jpg
   caption: "Photo credit: [**Description de L'Égypte**](https://digitalcollections.nypl.org/items/510d47e0-214b-a3d9-e040-e00a18064a99)"
   actions:
     - label: "More Info"
       url: "https://www.egylandscape.org/about/"
 ---
+
+<div>
+<h3 class="archive__subtitle">Recent Working Papers & Blog Posts</h3>
+{% assign papers = site.papers | sort: 'date' | reverse %}
+{% assign posts = site.posts | sort: 'date' | reverse %}
+{% assign publications = papers | concat: posts %}
+<div class="entries-grid">
+    {% for item in publications %}
+    <div class="grid__item">
+        <article class="article__item">
+            <p class="archive__item-type">{{ item.type }}</p>
+            <a href="{{ item.url }}">
+                <div class="archive__item-title">{{ item.title }}</div>
+            </a>
+            <p class="archive__item-excerpt">{{ item.excerpt }}</p>
+        </article>
+    </div>
+    {% endfor %}
+</div>
+</div>
+

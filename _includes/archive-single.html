@@ -4,6 +4,12 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
+{% if post.avatar %}
+  {% capture avatar %}{{ post.avatar }}{% endcapture %}
+{% else %}
+  {% assign avatar = site.avatar %}
+{% endif %}
+
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -12,13 +18,13 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
+    {% if include.type == "grid" and avatar %}
+      <div class="archive__avatar">
         <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
+          {% if avatar contains "://" %}
+            "{{ avatar }}"
           {% else %}
-            "{{ teaser | relative_url }}"
+            "{{ avatar | relative_url }}"
           {% endif %}
           alt="">
       </div>
@@ -34,5 +40,6 @@
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% if post.institution %}<p class="archive__item-institution" itemprop="description">{{ post.institution | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>

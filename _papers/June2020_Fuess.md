@@ -1,6 +1,9 @@
 ---
 title: "Waqfization in the late Mamluk Empire: A deliberate policy or chaos management? "
-excerpt: "**Albrecht Fuess**"
+excerpt: "Albrecht Fuess"
+institution: "Philipps-Universität Marburg"
+author_profile: false
+type: "Working Paper"
 toc: true
 toc_sticky: true
 layout: single
@@ -9,7 +12,7 @@ layout: single
 
 [*Download PDF Here*](https://www.egylandscape.org/papers/June2020_Fuess_WorkingPaper.pdf)
 
-## [Albrecht Fuess](https://www.egylandscape.org/members/AlbrechtFuess/)
+### Author: [Prof. Albrecht Fuess](https://www.egylandscape.org/members/AlbrechtFuess/)
 **Chair of Islamic Studies** 
 *Philipps-Universität Marburg*
 

@@ -1,27 +1,29 @@
 ---
-title: "Inaugural Workshop of the EGYLandscape Project: Sources, Methods, and Tools - 2019"
-excerpt: "Philipps-Universität Marburg (Germany"
+title: "Inaugural Workshop of the EGYLandscape Project"
+excerpt: "Sources, Methods, and Tools - 2019"
+avatar: "/assets/images/inaugral_workshop_avatar.jpg"
 toc: true
 toc_sticky: true
+institution: "Philipps Universität-Marburg"
 layout: single
 gallery:
-  - url: /assets/images/Marburg_EGY_Sept__001.jpeg
-    image_path: /assets/images/Marburg_EGY_Sept_001.jpeg
+  - url: /assets/images/workshops/Marburg_EGY_Sept__001.jpeg
+    image_path: /assets/images/workshops/Marburg_EGY_Sept_001.jpeg
     alt: "placeholder image 1"
-  - url: /assets/images/Marburg_EGY_Sept_002.jpeg
-    image_path: /assets/images/Marburg_EGY_Sept_002.jpeg
+  - url: /assets/images/workshops/Marburg_EGY_Sept_002.jpeg
+    image_path: /assets/images/workshops/Marburg_EGY_Sept_002.jpeg
     alt: "placeholder image 2"
-  - url: /assets/images/Marburg_EGY_Sept__003.jpeg
-    image_path: /assets/images/Marburg_EGY_Sept_003.jpeg
+  - url: /assets/images/workshops/Marburg_EGY_Sept__003.jpeg
+    image_path: /assets/images/workshops/Marburg_EGY_Sept_003.jpeg
     alt: "placeholder image 3"
-  - url: /assets/images/Marburg_EGY_Sept_004.jpeg
-    image_path: /assets/images/Marburg_EGY_Sept_004.jpeg
+  - url: /assets/images/workshops/Marburg_EGY_Sept_004.jpeg
+    image_path: /assets/images/workshops/Marburg_EGY_Sept_004.jpeg
     alt: "placeholder image 4"
-  - url: /assets/images/Marburg_EGY_Sept_008.jpeg
-    image_path: /assets/images/Marburg_EGY_Sept_008.jpeg
+  - url: /assets/images/workshops/Marburg_EGY_Sept_008.jpeg
+    image_path: /assets/images/workshops/Marburg_EGY_Sept_008.jpeg
     alt: "placeholder image 5"
-  - url: /assets/images/Marburg_EGY_Sept_006.jpeg
-    image_path: /assets/images/Marburg_EGY_Sept_006.jpeg
+  - url: /assets/images/workshops/Marburg_EGY_Sept_006.jpeg
+    image_path: /assets/images/workshops/Marburg_EGY_Sept_006.jpeg
     alt: "placeholder image 6"
 
 ---
