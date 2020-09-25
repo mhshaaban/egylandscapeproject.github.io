@@ -7,6 +7,7 @@ toc: true
 toc_sticky: true
 layout: single
 gallery:
+<<<<<<< HEAD
   - url: /assets/images/workshops/june_8th_session.jpg
     image_path: /assets/images/workshops/june_8th_session.jpg
     alt: "placeholder image 1"
@@ -15,6 +16,16 @@ gallery:
     alt: "placeholder image 2"
   - url: /assets/images/workshops/june_9th_session.jpg
     image_path: /assets/images/workshops/june_9th_session.jpg
+=======
+  - url: /assets/images/june_8th_session.jpg
+    image_path: /assets/images/june_8th_session.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/prof_borsch_presenting.jpg
+    image_path: /assets/images/prof_borsch_presenting.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/june_9th_session.jpg
+    image_path: /assets/images/june_9th_session.jpg
+>>>>>>> cbd54ba363acb7a34b01dc5c5991df43fbebf69f
     alt: "placeholder image 3"
 ---
 
