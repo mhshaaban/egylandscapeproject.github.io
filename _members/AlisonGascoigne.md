@@ -3,7 +3,7 @@ title: "Alison L. Gascoigne"
 excerpt: "Project Contributor"
 author: Alison L. Gascoigne
 institution: "University of Southampton"
-avatar: "/assets/images/alison_gascoigne_edited.jpg"
+avatar: "/assets/images/teamMembers/alison_gascoigne_edited.jpg"
 author_profile: true
 date: "2019-02-07"
 toc: false
