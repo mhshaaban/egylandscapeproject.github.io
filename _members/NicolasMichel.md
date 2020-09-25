@@ -6,7 +6,7 @@ author: Nicolas Michel
 toc: false
 toc_sticky: false
 date: "2019-01-01"
-avatar: "/assets/images/nicolas_michel.jpg"
+avatar: "/assets/images/teamMembers/nicolas_michel.jpg"
 layout: single
 ---
 
