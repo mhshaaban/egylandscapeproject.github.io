@@ -6,7 +6,7 @@ author: Albrecht Fuess
 toc: false
 toc_sticky: false
 date: "2019-01-02"
-avatar: "/assets/images/albrecht_fuess.jpg"
+avatar: "/assets/images/teamMembers/albrecht_fuess.jpg"
 layout: single
 ---
 
