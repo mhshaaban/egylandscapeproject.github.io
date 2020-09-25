@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: "https://www.egylandscape.org/workshops/index.html" 
+    url: "https://www.egylandscape.org/index.html" 
   - title: Our Project
     sublinks:
       - title: "About"
