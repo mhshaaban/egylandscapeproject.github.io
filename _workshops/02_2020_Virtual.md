@@ -24,9 +24,9 @@ gallery:
 **Next Steps: A Virtual Gathering**
 *8-9 June 2020*
 
-[*Download Program Here*](https://mhshaaban.github.io/minimal-mistakes/workshops/EGYLandscape_Virtual2020_Workshop_Program.pdf)
+[*Download Program Here*](https://www.egylandscape.org/workshops/EGYLandscape_Virtual2020_Workshop_Program.pdf)
 
-[*Download Flier Here*](https://mhshaaban.github.io/minimal-mistakes/workshops/EGYLandscapes_Virtual2020_Workshop_Flier.pdf)
+[*Download Flier Here*](https://www.egylandscape.org/workshops/EGYLandscapes_Virtual2020_Workshop_Flier.pdf)
 
 The second workshop of the EGYLandscape project was initially planned to be held at the French Archaeological Institute in Cairo, Egypt. However, given the ongoing COVID-19 pandemic, the EGYLandscape project moved the workshop to a virtual platform. Using the open-source platform TheBigBlueButton, EGYLandscape’s second workshop was held on 8-9 June 2020.
 
