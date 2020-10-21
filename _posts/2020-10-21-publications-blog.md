@@ -1,3 +1,13 @@
+---
+title: "New Publications"
+excerpt: "Recent publications from EGYLandscape team members"
+type: "Blog Post"
+tags:
+  - Website
+  - Team
+  - Publications
+---
+
 Now that our website is up and running, we wanted to take a moment to highlight some of the recent publications and contributions of the project's team members from the last few months.
 
 EGYLandscape Project participant Bethany Walker (Uni. Bonn) co-edited a volume with Abdelkader El Ghouz entitled, "*Living with Nature and Things: Contributions to a New Social History of the Middle Islamic Periods*." This new book brings together a selection of contributions that emerged from annual conferences held at the Annemarie Schimmel Mamluk Kolleg in Bonn over the past few years. EGYLandscape contributors were active at the Kolleg, its conferences and events, and also are well represented in Walker's contribution with chapters:
