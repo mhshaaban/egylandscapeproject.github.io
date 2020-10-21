@@ -10,7 +10,7 @@ tags:
 
 Now that our website is up and running, we wanted to take a moment to highlight some of the recent publications and contributions of the project's team members from the last few months.
 
-EGYLandscape Project participant Bethany Walker (Uni. Bonn) co-edited a volume with Abdelkader El Ghouz entitled, "*Living with Nature and Things: Contributions to a New Social History of the Middle Islamic Periods*." This new book brings together a selection of contributions that emerged from annual conferences held at the Annemarie Schimmel Mamluk Kolleg in Bonn over the past few years. EGYLandscape contributors were active at the Kolleg, its conferences and events, and also are well represented in Walker's contribution with chapters:
+EGYLandscape Project participant [Bethany Walker](https://www.egylandscape.org/members/BethanyWalker/) (Uni. Bonn) co-edited a volume with Abdelkader El Ghouz entitled, ["*Living with Nature and Things: Contributions to a New Social History of the Middle Islamic Periods*"](https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/theologie-und-religion/islamwissenschaft/55252/living-with-nature-and-things). This new book brings together a selection of contributions that emerged from annual conferences held at the Annemarie Schimmel Mamluk Kolleg in Bonn over the past few years. EGYLandscape contributors were active at the Kolleg, its conferences and events, and also are well represented in Walker's contribution with chapters:
 
 -  [Yossef Rapoport](https://www.egylandscape.org/members/YossefRapoport/) -- "1068 in the Fayyum: A Micro-History of an Environmental Crisis"
 
@@ -23,7 +23,6 @@ EGYLandscape Project participant Bethany Walker (Uni. Bonn) co-edited a volume w
 Another major publication of the last few months was a co-authored booklet about Tinnis during the Roman and Islamic Period by project contributor [Alison Gascoigne](https://www.egylandscape.org/members/AlisonGascoigne/) (Southampton Uni.), with co-authors John P. Cooper and Ziad Morsy. The booklet is in Arabic and English under the titles:
 
 *The Roman and Islamic city of Tinnis: a historical and archaeological introduction* / 
-
 مدينة ِتنّيس في العصرين الروماني والا سلا مي: مدخل تاريخي وأثر
 
 It is open-access and available online [here](http://eprints.soton.ac.uk/id/eprint/443284).
