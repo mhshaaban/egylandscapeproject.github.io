@@ -345,3 +345,11 @@ defaults:
       layout: single
       author_profile: true
       share: false
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: true
+      share: false
