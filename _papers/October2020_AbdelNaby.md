@@ -12,7 +12,7 @@ layout: single
 [*Download PDF Here*](https://www.egylandscape.org/papers/October2020_AbdelNaby_WorkingPaper.pdf)
 
 ### Author: [Heba Saad Abdelnaby](https://www.egylandscape.org/members/HebaSaadAbdelnaby/)
-**Professor of Tourism** 
+**Professor of Islamic Archaeology** 
 *Alexandria University*
 
 #### Introduction 
