@@ -140,7 +140,7 @@ at the same time show off the power and superiority of the Mamluks. It
 was also a chance to convey control of resources by having luxurious
 banquets of various lavish food, part of which were birds. On such
 occasions the amīrs were usually divided into two teams; one headed by
-the sultan and the other headed by *ātābik al-^c^askar*. A huge banquet
+the sultan and the other headed by *ātābak al-ʿaskar*. A huge banquet
 was held after the game, the cost of which was covered by the head of
 the defeated team. Needless to say, such banquets were very expensive-
 probably costing thousands of *dinārs* - due to the huge number of
@@ -262,8 +262,8 @@ of the time.
 Birds in the Mamluk markets were made available from two sources:
 hatcheries and hunting. We do not have an exact date for the beginning
 of the use of hatcheries in Egypt, but the earliest clear mention of
-them is in the book of al-Baghdādī '*al-Ifādah wal-i^c^tbār*' when he
-mentioned heated incubators or '*ḥaḍān al-farārīj* and *ma^c^mal
+them is in the book of al-Baghdādī '*‘al-Ifādah wal-iʿtbār’*' when he
+mentioned heated incubators or '*ḥaḍān al-farārīj* and *maʿmal
 al-farrūj*' that were widely-spreading in Egypt. He mentioned that these
 hatcheries earned money and supported trade.[^47] Al-Baghdādī provided
 detailed information about these incubators stating that each one had
