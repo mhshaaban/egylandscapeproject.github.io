@@ -15,6 +15,7 @@ layout: single
 **Professor of Tourism** 
 *Alexandria University*
 
+#### Introduction 
 
 The military upbringing of the Mamluks included physical and mental
 preparation in addition to military training; therefore, good nutrition
