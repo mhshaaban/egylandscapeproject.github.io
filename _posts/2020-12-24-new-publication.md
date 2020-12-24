@@ -9,7 +9,7 @@ tags:
 date: 24-12-2020
 ---
 
-![The Island City of Tinnis Cover Image](https://www.egylandscape.org/blog/Gascoigne_publication_coverImage.jpg)
+![The Island City of Tinnis Cover Image](/posts/Gascoigne_publication_coverImage.jpg)
 
 We are excited to announce a new publication by our team member, [Dr. Alison L. Gascoigne](https://www.egylandscape.org/members/AlisonGascoigne/), has published a new study on Tell Tinnīs. 
 At one time a prosperous port and manufacturing center, it was abandoned in the 13th century due to raids by Crusaders.
