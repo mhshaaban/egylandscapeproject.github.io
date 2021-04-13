@@ -1,6 +1,6 @@
 ---
 title: “New Publications”
-excerpt: "Three publications from EGYLandscape Team Members"
+excerpt: "Three new publications from EGYLandscape Team Members"
 type: "Blog Post"
 tags:
   - Website
