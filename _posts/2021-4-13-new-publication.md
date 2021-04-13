@@ -11,8 +11,8 @@ date: 13-4-2021
 
 The past few months saw three new publications by EGYLandscape team members.
 
-[Adam Sabra](https://www.egylandscape.org/members/AdamSabra/) (Univ. California, Santa Barbara) coedited with Mustafa Mughazy a critical edition of twelve manuscripts of poetry by Muḥammad ibn Abī al-Hasan al-Bakrī (930-994/1524-1586), a leading jurist, Sufi, and literary figure in sixteenth-century Cairo. Published by IFAO, the edition entitled (The Interpreter of Secrets
-The Dīwān of Šayḫ Muḥammad b. Abī al-Ḥasan al-Bakrī)[https://www.ifao.egnet.net/publications/catalogue/9782724707816/] is out now. 
+[Adam Sabra](https://www.egylandscape.org/members/AdamSabra/) (Univ. California, Santa Barbara) coedited with Mustafa Mughazy a critical edition of twelve manuscripts of poetry by Muḥammad ibn Abī al-Hasan al-Bakrī (930-994/1524-1586), a leading jurist, Sufi, and literary figure in sixteenth-century Cairo. Published by IFAO, the edition entitled [The Interpreter of Secrets
+The Dīwān of Šayḫ Muḥammad b. Abī al-Ḥasan al-Bakrī](https://www.ifao.egnet.net/publications/catalogue/9782724707816/) is out now. 
 
 [Dan Varisco](https://www.egylandscape.org/members/DanielVarisco/) (American Institute for Yemeni Studies) has recently published a new article in Der Islam, entitled: [“Reading Rasūlid Maps: An Early 14th-Century Geographical Resource.”](https://doi.org/10.1515/islam-2021-0005) The article explores using a set of maps, located in an early 14th-century tax register for the Rasūlid sultan al-Malik al-Mu’ayyad Dāwūd, as a source for the study of the historical geography of Yemen.
 
