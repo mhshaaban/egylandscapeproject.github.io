@@ -15,6 +15,10 @@ layout: single
 **Professor in Islamic History** 
 *Queen Mary, University of London*
 
+### Al-Qalqashandī's Lost Tribes: Mamluk Genealogy, Identity and Administration
+
+#### Introduction
+
 *Nihāyat al-arab fī maʿrifat ansāb al-ʿarab*, "The Ultimate Ambition in
 the Knowledge of the Lineages of the Arabs", is a genealogical treatise
 composed by the Mamluk bureaucrat Shihāb al-Dīn Aḥmad al-Qalqashandī
