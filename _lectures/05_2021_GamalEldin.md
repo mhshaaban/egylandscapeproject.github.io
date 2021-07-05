@@ -1,6 +1,6 @@
 ---
 title: "Outhouses, Informal Housing, and Sewerage"
-author: Mohamed Gamal-Eldin
+excerpt: Mohamed Gamal-Eldin
 avatar: "/assets/images/teamMembers/adam_sabra_edited.jpg"
 toc: true
 toc_sticky: true
