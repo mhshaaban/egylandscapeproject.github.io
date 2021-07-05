@@ -1,6 +1,6 @@
 ---
 title: "Relics & the Religious Topography of Islamic Cairo"
-author: Prof. Richard McGregor
+excerpt: Prof. Richard McGregor
 avatar: "/assets/images/teamMembers/adam_sabra_edited.jpg"
 toc: true
 toc_sticky: true
