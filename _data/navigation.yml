@@ -16,8 +16,12 @@ main:
         url: /conferences/
       - title: "Lectures"
         url: /lectures/
-  - title: "Working Papers"
-    url: /papers/
+    - title: Research
+    sublinks:
+      - title: "Working Papers"
+        url: /papers/
+      - title: "Publications"
+        url: /publications/
   - title: "Blog"
     url: /blog/
   - title: "Contact Us"
